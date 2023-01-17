@@ -1,0 +1,163 @@
+,fussballdaten,footballdata,fussballdaten_key
+0,Leicester,Leicester,leicester-city
+1,Man. City,Man City,manchester-city
+2,Arsenal,Arsenal,fc-arsenal
+3,Aston Villa,Aston Villa,aston-villa
+4,Everton,Everton,fc-everton
+5,Norwich City,Norwich,norwich-city
+6,Southampton,Southampton,fc-southampton
+7,Brentford,Brentford,fc-brentford
+8,Newcastle,Newcastle,newcastle-united
+9,Watford,Watford,fc-watford
+10,Man. United,Man United,manchester-united
+11,Tottenham,Tottenham,tottenham-hotspur
+12,West Ham,West Ham,west-ham-united
+13,Leeds United,Leeds,leeds-united
+14,Wolverhampton,Wolves,wolverhampton-wanderers
+15,Liverpool,Liverpool,fc-liverpool
+16,Brighton,Brighton,brighton-and-hove-albion
+17,Crystal Palace,Crystal Palace,crystal-palace
+18,Chelsea,Chelsea,fc-chelsea
+19,Burnley,Burnley,fc-burnley
+20,Stoke City,Stoke,stoke-city
+21,West Brom,West Brom,west-bromwich-albion
+22,Middlesbrough,Middlesbrough,fc-middlesbrough
+23,Sunderland,Sunderland,afc-sunderland
+24,Bournemouth,Bournemouth,afc-bournemouth
+25,Hull City,Hull,hull-city-afc
+26,Swansea City,Swansea,swansea-city
+27,Cardiff City,Cardiff,cardiff-city
+28,Fulham,Fulham,fc-fulham
+29,Huddersfield,Huddersfield,huddersfield-town
+30,Sheffield U.,Sheffield United,sheffield-united
+31,Dortmund,Dortmund,borussia-dortmund
+32,Augsburg,Augsburg,fc-augsburg
+33,Hoffenheim,Hoffenheim,1899-hoffenheim
+34,Stuttgart,Stuttgart,vfb-stuttgart
+35,Mainz,Mainz,1-fsv-mainz-05
+36,Bielefeld,Bielefeld,arminia-bielefeld
+37,Union Berlin,Union Berlin,1-fc-union-berlin
+38,Leverkusen,Leverkusen,bayer-leverkusen
+39,M'gladbach,M'gladbach,borussia-moenchengladbach
+40,Wolfsburg,Wolfsburg,vfl-wolfsburg
+41,RB Leipzig,RB Leipzig,rb-leipzig
+42,Fürth,Greuther Furth,spvgg-greuther-fuerth
+43,Hertha BSC,Hertha,hertha-bsc
+44,Frankfurt,Ein Frankfurt,eintracht-frankfurt
+45,Bayern,Bayern Munich,fc-bayern-muenchen
+46,VfL Bochum,Bochum,vfl-bochum
+47,Köln,FC Koln,1-fc-koeln
+48,Freiburg,Freiburg,sc-freiburg
+49,FC Ingolstadt,Ingolstadt,fc-ingolstadt-04
+50,Hamburg,Hamburg,hamburger-sv
+51,Darmstadt,Darmstadt,sv-darmstadt-98
+52,Bremen,Werder Bremen,sv-werder-bremen
+53,Schalke,Schalke 04,fc-schalke-04
+54,Düsseldorf,Fortuna Dusseldorf,fortuna-duesseldorf
+55,Hannover,Hannover,hannover-96
+56,Nürnberg,Nurnberg,1-fc-nuernberg
+57,Paderborn,Paderborn,sc-paderborn-07
+58,Rostock,Hansa Rostock,hansa-rostock
+59,Heidenheim,Heidenheim,1-fc-heidenheim-1846
+60,Dresden,Dresden,dynamo-dresden
+61,St. Pauli,St Pauli,fc-st-pauli
+62,Sandhausen,Sandhausen,sv-sandhausen
+63,Aue,Erzgebirge Aue,fc-erzgebirge-aue
+64,Regensburg,Regensburg,jahn-regensburg
+65,Holstein Kiel,Holstein Kiel,holstein-kiel
+66,Karlsruhe,Karlsruhe,karlsruher-sc
+67,K'lautern,Kaiserslautern,1-fc-kaiserslautern
+68,Magdeburg,Magdeburg,1-fc-magdeburg
+69,Braunschweig,Braunschweig,eintracht-braunschweig
+70,TSV 1860,Munich 1860,tsv-1860-muenchen
+71,K. Würzburg,Wurzburger Kickers,kickers-wuerzburg
+72,Duisburg,Duisburg,msv-duisburg
+73,Osnabrück,Osnabruck,vfl-osnabrueck
+74,Wehen,Wehen,sv-wehen-wiesbaden
+75,PSG,Paris SG,paris-st-germain
+76,Lille,Lille,osc-lille
+77,Nantes,Nantes,fc-nantes
+78,Nizza,Nice,ogc-nizza
+79,Lyon,Lyon,olympique-lyon
+80,St. Etienne,St Etienne,as-st-etienne
+81,Troyes,Troyes,es-troyes-ac
+82,Montpellier,Montpellier,hsc-montpellier
+83,Metz,Metz,fc-metz
+84,Rennes,Rennes,stade-rennes
+85,Monaco,Monaco,as-monaco
+86,Brest,Brest,stade-brest
+87,Ol. Marseille,Marseille,olympique-marseille
+88,Lens,Lens,rc-lens
+89,Lorient,Lorient,fc-lorient
+90,Bordeaux,Bordeaux,girondins-bordeaux
+91,Straßburg,Strasbourg,racing-strassburg
+92,Reims,Reims,stade-de-reims
+93,Clermont,Clermont,clermont-foot
+94,Angers,Angers,sco-angers
+95,SM Caen,Caen,sm-caen
+96,Dijon,Dijon,dijon-football
+97,Toulouse,Toulouse,fc-toulouse
+98,Nancy,Nancy,as-nancy
+99,Bastia,Bastia,sc-bastia
+100,Guingamp,Guingamp,ea-guingamp
+101,Amiens,Amiens,sc-amiens
+102,Nimes,Nimes,olympique-nimes
+103,Getafe,Getafe,fc-getafe
+104,Sociedad,Sociedad,real-sociedad-san-sebastian
+105,Ath. Bilbao,Ath Bilbao,athletic-bilbao
+106,Alavés,Alaves,deportivo-alaves
+107,Atl. Madrid,Ath Madrid,atletico-madrid
+108,Granada,Granada,fc-granada
+109,Elche,Elche,fc-elche
+110,Valencia,Valencia,fc-valencia
+111,Sevilla,Sevilla,fc-sevilla
+112,FC Barcelona,Barcelona,fc-barcelona
+113,Celta Vigo,Celta,celta-vigo
+114,Real Betis,Betis,real-betis
+115,Espanyol,Espanol,espanyol-barcelona
+116,Villarreal,Villarreal,fc-villarreal
+117,Mallorca,Mallorca,rcd-mallorca
+118,Cadiz,Cadiz,fc-cadiz
+119,Levante,Levante,levante-ud
+120,Vallecano,Vallecano,rayo-vallecano
+121,Real Madrid,Real Madrid,real-madrid
+122,Osasuna,Osasuna,ca-osasuna
+123,Gijon,Sp Gijon,sporting-gijon
+124,Deportivo,La Coruna,deportivo-la-coruna
+125,Leganes,Leganes,cd-leganes
+126,Las Palmas,Las Palmas,ud-las-palmas
+127,Eibar,Eibar,sd-eibar
+128,Malaga,Malaga,fc-malaga
+129,Valladolid,Valladolid,real-valladolid
+130,Huesca,Huesca,sd-huesca
+131,Girona,Girona,fc-girona
+132,Bologna,Bologna,fc-bologna
+133,Inter Mailand,Inter,inter-mailand
+134,Neapel,Napoli,ssc-neapel
+135,Turin,Torino,fc-turin
+136,Empoli,Empoli,fc-empoli
+137,Cagliari,Cagliari,cagliari-calcio
+138,Venezia,Venezia,venezia
+139,AS Rom,Roma,as-rom
+140,Genua,Genoa,fc-genua-1893
+141,Sassuolo,Sassuolo,us-sassuolo-calcio
+142,Bergamo,Atalanta,atalanta-bergamo
+143,Spezia,Spezia,spezia-calcio
+144,Udinese,Udinese,udinese-calcio
+145,AC Mailand,Milan,ac-mailand
+146,S. Genua,Sampdoria,sampdoria-genua
+147,Juventus Turin,Juventus,juventus-turin
+148,H. Verona,Verona,hellas-verona
+149,Lazio Rom,Lazio,lazio-rom
+150,Salernitana,Salernitana,us-salernitana
+151,AC Florenz,Fiorentina,ac-florenz
+152,Pescara,Pescara,delfino-pescara-1936
+153,Palermo,Palermo,us-palermo
+154,Ch. Verona,Chievo,ac-chievo-verona
+155,Crotone,Crotone,fc-crotone
+156,Frosinone,Frosinone,frosinone-calcio
+157,SPAL,Spal,spal-ferrara
+158,Parma,Parma,fc-parma
+159,Benevento,Benevento,benevento-calcio
+160,Brescia,Brescia,brescia-calcio
+161,Lecce,Lecce,us-lecce

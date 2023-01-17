@@ -9,7 +9,7 @@ import math
 class CalculationPredictor(PredictorBase):
     MAX_GOALS = 5
     DOMINATION_THRESHOLD = 9
-    DRAW_THRESHOLD = 1.3
+    DRAW_THRESHOLD = 0.2
     NONLINEARITY = 0.5
 
     def predict(self, match: Match):

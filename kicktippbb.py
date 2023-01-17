@@ -179,7 +179,8 @@ def place_bets(browser: RoboBrowser, communities: list, predictor, override=Fals
         submitform = browser.get_form()
         for field_hometeam, field_roadteam, match in matches:
             if not field_hometeam or not field_roadteam:
-                print("{0} - no bets possible".format(match))
+                homebet, roadbet = predictor.predict(match)
+                print("{0} - no bets possible - betted {1}:{2}".format(match, homebet, roadbet))
                 continue
 
             input_hometeam_value = submitform[field_hometeam.attrs['name']].value
