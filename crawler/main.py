@@ -5,7 +5,7 @@ from scrapy.utils.project import get_project_settings
 
 if __name__ == "__main__":
 
-    spider = 'footballdata'
+    spider = 'fussballdaten'
 
     os.environ['SCRAPY_PROJECT'] = spider
     settings = get_project_settings()

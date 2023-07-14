@@ -1,3 +1,4 @@
 docopt==0.6.2
 robobrowser==0.5.3
 html5lib==1.1
+Werkzeug==0.16.1

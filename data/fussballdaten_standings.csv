@@ -759,46 +759,246 @@ fussballdaten,2022,england,2021/2022,Premier League,25,17,leeds-united,Leeds Uni
 fussballdaten,2022,england,2021/2022,Premier League,25,18,fc-burnley,Burnley,21,22,34
 fussballdaten,2022,england,2021/2022,Premier League,25,19,norwich-city,Norwich City,17,14,53
 fussballdaten,2022,england,2021/2022,Premier League,25,20,fc-watford,Watford,15,24,51
+fussballdaten,2023,england,2022/2023,Premier League,32,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,32,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,32,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,32,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,32,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,32,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,32,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,32,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,32,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,32,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,32,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,32,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,32,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,32,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,32,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,32,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,32,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,32,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,32,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,32,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,35,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,35,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,35,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,35,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,35,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,35,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,35,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,35,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,35,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,35,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,35,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,35,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,35,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,35,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,35,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,35,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,35,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,35,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,35,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,35,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,34,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,34,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,34,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,34,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,34,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,34,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,34,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,34,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,34,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,34,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,34,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,34,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,34,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,34,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,34,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,34,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,34,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,34,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,34,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,34,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,33,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,33,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,33,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,33,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,33,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,33,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,33,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,33,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,33,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,33,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,33,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,33,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,33,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,33,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,33,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,33,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,33,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,33,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,33,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,33,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,20,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,20,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,20,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,20,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,20,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,20,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,20,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,20,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,20,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,20,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,20,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,20,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,20,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,20,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,20,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,20,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,20,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,20,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,20,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,20,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,18,1,fc-arsenal,Arsenal,43,40,14
+fussballdaten,2023,england,2022/2023,Premier League,18,2,manchester-city,Man. City,36,44,16
+fussballdaten,2023,england,2022/2023,Premier League,18,3,newcastle-united,Newcastle,34,32,11
+fussballdaten,2023,england,2022/2023,Premier League,18,4,manchester-united,Man. United,33,25,21
+fussballdaten,2023,england,2022/2023,Premier League,18,5,tottenham-hotspur,Tottenham,30,33,25
+fussballdaten,2023,england,2022/2023,Premier League,18,6,fc-liverpool,Liverpool,28,33,19
+fussballdaten,2023,england,2022/2023,Premier League,18,7,fc-fulham,Fulham,28,31,28
+fussballdaten,2023,england,2022/2023,Premier League,18,8,fc-chelsea,Chelsea,25,21,20
+fussballdaten,2023,england,2022/2023,Premier League,18,9,brighton-and-hove-albion,Brighton,24,28,24
+fussballdaten,2023,england,2022/2023,Premier League,18,10,fc-brentford,Brentford,23,27,27
+fussballdaten,2023,england,2022/2023,Premier League,18,11,crystal-palace,Crystal Palace,23,18,22
+fussballdaten,2023,england,2022/2023,Premier League,18,12,aston-villa,Aston Villa,21,19,25
+fussballdaten,2023,england,2022/2023,Premier League,18,13,leicester-city,Leicester,17,26,30
+fussballdaten,2023,england,2022/2023,Premier League,18,14,leeds-united,Leeds United,16,23,29
+fussballdaten,2023,england,2022/2023,Premier League,18,15,afc-bournemouth,Bournemouth,16,18,36
+fussballdaten,2023,england,2022/2023,Premier League,18,16,fc-everton,Everton,15,13,20
+fussballdaten,2023,england,2022/2023,Premier League,18,17,west-ham-united,West Ham,14,13,22
+fussballdaten,2023,england,2022/2023,Premier League,18,18,nottingham-forest,Nottingham,14,12,34
+fussballdaten,2023,england,2022/2023,Premier League,18,19,wolverhampton-wanderers,Wolverhampton,13,10,26
+fussballdaten,2023,england,2022/2023,Premier League,18,20,fc-southampton,Southampton,12,15,32
+fussballdaten,2023,england,2022/2023,Premier League,27,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,27,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,27,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,27,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,27,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,27,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,27,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,27,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,27,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,27,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,27,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,27,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,27,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,27,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,27,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,27,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,27,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,27,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,27,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,27,20,fc-southampton,Southampton,15,17,34
 fussballdaten,2023,england,2022/2023,Premier League,9,1,fc-arsenal,Arsenal,21,20,8
 fussballdaten,2023,england,2022/2023,Premier League,9,2,manchester-city,Man. City,20,29,9
 fussballdaten,2023,england,2022/2023,Premier League,9,3,tottenham-hotspur,Tottenham,17,19,10
 fussballdaten,2023,england,2022/2023,Premier League,9,4,brighton-and-hove-albion,Brighton,14,14,8
-fussballdaten,2023,england,2022/2023,Premier League,9,5,fc-chelsea,Chelsea,13,10,10
-fussballdaten,2023,england,2022/2023,Premier League,9,6,manchester-united,Man. United,12,11,14
-fussballdaten,2023,england,2022/2023,Premier League,9,7,newcastle-united,Newcastle,11,12,8
-fussballdaten,2023,england,2022/2023,Premier League,9,8,fc-fulham,Fulham,11,13,15
+fussballdaten,2023,england,2022/2023,Premier League,9,5,fc-fulham,Fulham,14,15,16
+fussballdaten,2023,england,2022/2023,Premier League,9,6,fc-chelsea,Chelsea,13,11,12
+fussballdaten,2023,england,2022/2023,Premier League,9,7,manchester-united,Man. United,13,12,15
+fussballdaten,2023,england,2022/2023,Premier League,9,8,newcastle-united,Newcastle,11,12,8
 fussballdaten,2023,england,2022/2023,Premier League,9,9,fc-liverpool,Liverpool,10,18,9
 fussballdaten,2023,england,2022/2023,Premier League,9,10,fc-brentford,Brentford,10,15,12
 fussballdaten,2023,england,2022/2023,Premier League,9,11,fc-everton,Everton,10,7,7
 fussballdaten,2023,england,2022/2023,Premier League,9,12,leeds-united,Leeds United,9,10,10
 fussballdaten,2023,england,2022/2023,Premier League,9,13,afc-bournemouth,Bournemouth,9,6,19
 fussballdaten,2023,england,2022/2023,Premier League,9,14,aston-villa,Aston Villa,8,6,10
-fussballdaten,2023,england,2022/2023,Premier League,9,15,west-ham-united,West Ham,7,5,9
-fussballdaten,2023,england,2022/2023,Premier League,9,16,fc-southampton,Southampton,7,8,13
-fussballdaten,2023,england,2022/2023,Premier League,9,17,crystal-palace,Crystal Palace,6,8,11
+fussballdaten,2023,england,2022/2023,Premier League,9,15,crystal-palace,Crystal Palace,7,9,12
+fussballdaten,2023,england,2022/2023,Premier League,9,16,west-ham-united,West Ham,7,5,9
+fussballdaten,2023,england,2022/2023,Premier League,9,17,fc-southampton,Southampton,7,8,13
 fussballdaten,2023,england,2022/2023,Premier League,9,18,wolverhampton-wanderers,Wolverhampton,6,3,9
 fussballdaten,2023,england,2022/2023,Premier League,9,19,leicester-city,Leicester,4,14,22
 fussballdaten,2023,england,2022/2023,Premier League,9,20,nottingham-forest,Nottingham,4,6,21
+fussballdaten,2023,england,2022/2023,Premier League,11,1,fc-arsenal,Arsenal,27,24,10
+fussballdaten,2023,england,2022/2023,Premier League,11,2,manchester-city,Man. City,23,33,10
+fussballdaten,2023,england,2022/2023,Premier League,11,3,tottenham-hotspur,Tottenham,23,22,10
+fussballdaten,2023,england,2022/2023,Premier League,11,4,fc-chelsea,Chelsea,19,16,12
+fussballdaten,2023,england,2022/2023,Premier League,11,5,manchester-united,Man. United,17,14,16
+fussballdaten,2023,england,2022/2023,Premier League,11,6,newcastle-united,Newcastle,15,17,9
+fussballdaten,2023,england,2022/2023,Premier League,11,7,fc-fulham,Fulham,15,18,21
+fussballdaten,2023,england,2022/2023,Premier League,11,8,brighton-and-hove-albion,Brighton,14,14,11
+fussballdaten,2023,england,2022/2023,Premier League,11,9,fc-liverpool,Liverpool,13,21,12
+fussballdaten,2023,england,2022/2023,Premier League,11,10,fc-brentford,Brentford,13,18,17
+fussballdaten,2023,england,2022/2023,Premier League,11,11,afc-bournemouth,Bournemouth,13,10,22
+fussballdaten,2023,england,2022/2023,Premier League,11,12,crystal-palace,Crystal Palace,11,11,13
+fussballdaten,2023,england,2022/2023,Premier League,11,13,west-ham-united,West Ham,11,9,11
+fussballdaten,2023,england,2022/2023,Premier League,11,14,fc-everton,Everton,10,8,11
+fussballdaten,2023,england,2022/2023,Premier League,11,15,leeds-united,Leeds United,9,11,13
+fussballdaten,2023,england,2022/2023,Premier League,11,16,aston-villa,Aston Villa,9,7,13
+fussballdaten,2023,england,2022/2023,Premier League,11,17,wolverhampton-wanderers,Wolverhampton,9,4,12
+fussballdaten,2023,england,2022/2023,Premier League,11,18,fc-southampton,Southampton,8,9,18
+fussballdaten,2023,england,2022/2023,Premier League,11,19,leicester-city,Leicester,5,15,24
+fussballdaten,2023,england,2022/2023,Premier League,11,20,nottingham-forest,Nottingham,5,7,23
 fussballdaten,2023,england,2022/2023,Premier League,7,1,fc-arsenal,Arsenal,15,14,7
 fussballdaten,2023,england,2022/2023,Premier League,7,2,manchester-city,Man. City,14,20,6
 fussballdaten,2023,england,2022/2023,Premier League,7,3,tottenham-hotspur,Tottenham,14,12,5
 fussballdaten,2023,england,2022/2023,Premier League,7,4,brighton-and-hove-albion,Brighton,13,11,5
-fussballdaten,2023,england,2022/2023,Premier League,7,5,manchester-united,Man. United,12,8,8
-fussballdaten,2023,england,2022/2023,Premier League,7,6,fc-chelsea,Chelsea,10,8,9
-fussballdaten,2023,england,2022/2023,Premier League,7,7,fc-liverpool,Liverpool,9,15,6
-fussballdaten,2023,england,2022/2023,Premier League,7,8,fc-brentford,Brentford,9,15,9
-fussballdaten,2023,england,2022/2023,Premier League,7,9,leeds-united,Leeds United,8,10,10
-fussballdaten,2023,england,2022/2023,Premier League,7,10,fc-fulham,Fulham,8,9,9
+fussballdaten,2023,england,2022/2023,Premier League,7,5,manchester-united,Man. United,13,9,9
+fussballdaten,2023,england,2022/2023,Premier League,7,6,fc-fulham,Fulham,11,11,10
+fussballdaten,2023,england,2022/2023,Premier League,7,7,fc-chelsea,Chelsea,10,9,11
+fussballdaten,2023,england,2022/2023,Premier League,7,8,fc-liverpool,Liverpool,9,15,6
+fussballdaten,2023,england,2022/2023,Premier League,7,9,fc-brentford,Brentford,9,15,9
+fussballdaten,2023,england,2022/2023,Premier League,7,10,leeds-united,Leeds United,8,10,10
 fussballdaten,2023,england,2022/2023,Premier League,7,11,newcastle-united,Newcastle,7,7,6
-fussballdaten,2023,england,2022/2023,Premier League,7,12,fc-southampton,Southampton,7,7,10
-fussballdaten,2023,england,2022/2023,Premier League,7,13,afc-bournemouth,Bournemouth,7,5,18
-fussballdaten,2023,england,2022/2023,Premier League,7,14,wolverhampton-wanderers,Wolverhampton,6,3,4
-fussballdaten,2023,england,2022/2023,Premier League,7,15,crystal-palace,Crystal Palace,6,7,9
+fussballdaten,2023,england,2022/2023,Premier League,7,12,crystal-palace,Crystal Palace,7,8,10
+fussballdaten,2023,england,2022/2023,Premier League,7,13,fc-southampton,Southampton,7,7,10
+fussballdaten,2023,england,2022/2023,Premier League,7,14,afc-bournemouth,Bournemouth,7,5,18
+fussballdaten,2023,england,2022/2023,Premier League,7,15,wolverhampton-wanderers,Wolverhampton,6,3,4
 fussballdaten,2023,england,2022/2023,Premier League,7,16,fc-everton,Everton,4,4,6
 fussballdaten,2023,england,2022/2023,Premier League,7,17,aston-villa,Aston Villa,4,5,10
 fussballdaten,2023,england,2022/2023,Premier League,7,18,west-ham-united,West Ham,4,3,8
 fussballdaten,2023,england,2022/2023,Premier League,7,19,nottingham-forest,Nottingham,4,4,14
 fussballdaten,2023,england,2022/2023,Premier League,7,20,leicester-city,Leicester,1,8,16
+fussballdaten,2023,england,2022/2023,Premier League,29,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,29,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,29,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,29,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,29,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,29,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,29,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,29,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,29,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,29,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,29,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,29,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,29,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,29,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,29,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,29,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,29,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,29,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,29,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,29,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,16,1,fc-arsenal,Arsenal,37,33,11
+fussballdaten,2023,england,2022/2023,Premier League,16,2,manchester-city,Man. City,32,40,14
+fussballdaten,2023,england,2022/2023,Premier League,16,3,newcastle-united,Newcastle,30,29,11
+fussballdaten,2023,england,2022/2023,Premier League,16,4,tottenham-hotspur,Tottenham,29,31,21
+fussballdaten,2023,england,2022/2023,Premier League,16,5,manchester-united,Man. United,27,21,21
+fussballdaten,2023,england,2022/2023,Premier League,16,6,fc-liverpool,Liverpool,22,28,17
+fussballdaten,2023,england,2022/2023,Premier League,16,7,fc-fulham,Fulham,22,26,27
+fussballdaten,2023,england,2022/2023,Premier League,16,8,brighton-and-hove-albion,Brighton,21,23,19
+fussballdaten,2023,england,2022/2023,Premier League,16,9,fc-chelsea,Chelsea,21,18,19
+fussballdaten,2023,england,2022/2023,Premier League,16,10,crystal-palace,Crystal Palace,20,16,19
+fussballdaten,2023,england,2022/2023,Premier League,16,11,fc-brentford,Brentford,19,23,25
+fussballdaten,2023,england,2022/2023,Premier League,16,12,aston-villa,Aston Villa,18,16,22
+fussballdaten,2023,england,2022/2023,Premier League,16,13,leicester-city,Leicester,17,25,25
+fussballdaten,2023,england,2022/2023,Premier League,16,14,afc-bournemouth,Bournemouth,16,18,32
+fussballdaten,2023,england,2022/2023,Premier League,16,15,leeds-united,Leeds United,15,22,26
+fussballdaten,2023,england,2022/2023,Premier League,16,16,west-ham-united,West Ham,14,12,17
+fussballdaten,2023,england,2022/2023,Premier League,16,17,fc-everton,Everton,14,11,17
+fussballdaten,2023,england,2022/2023,Premier League,16,18,nottingham-forest,Nottingham,13,11,30
+fussballdaten,2023,england,2022/2023,Premier League,16,19,fc-southampton,Southampton,12,13,27
+fussballdaten,2023,england,2022/2023,Premier League,16,20,wolverhampton-wanderers,Wolverhampton,10,8,24
 fussballdaten,2023,england,2022/2023,Premier League,6,1,fc-arsenal,Arsenal,15,14,7
 fussballdaten,2023,england,2022/2023,Premier League,6,2,manchester-city,Man. City,14,20,6
 fussballdaten,2023,england,2022/2023,Premier League,6,3,tottenham-hotspur,Tottenham,14,12,5
@@ -819,6 +1019,46 @@ fussballdaten,2023,england,2022/2023,Premier League,6,17,aston-villa,Aston Villa
 fussballdaten,2023,england,2022/2023,Premier League,6,18,west-ham-united,West Ham,4,3,8
 fussballdaten,2023,england,2022/2023,Premier League,6,19,nottingham-forest,Nottingham,4,4,14
 fussballdaten,2023,england,2022/2023,Premier League,6,20,leicester-city,Leicester,1,8,16
+fussballdaten,2023,england,2022/2023,Premier League,28,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,28,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,28,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,28,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,28,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,28,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,28,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,28,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,28,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,28,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,28,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,28,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,28,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,28,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,28,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,28,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,28,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,28,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,28,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,28,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,17,1,fc-arsenal,Arsenal,40,36,12
+fussballdaten,2023,england,2022/2023,Premier League,17,2,manchester-city,Man. City,35,43,15
+fussballdaten,2023,england,2022/2023,Premier League,17,3,newcastle-united,Newcastle,33,32,11
+fussballdaten,2023,england,2022/2023,Premier League,17,4,tottenham-hotspur,Tottenham,30,33,23
+fussballdaten,2023,england,2022/2023,Premier League,17,5,manchester-united,Man. United,30,24,21
+fussballdaten,2023,england,2022/2023,Premier League,17,6,fc-liverpool,Liverpool,25,31,18
+fussballdaten,2023,england,2022/2023,Premier League,17,7,fc-fulham,Fulham,25,29,27
+fussballdaten,2023,england,2022/2023,Premier League,17,8,brighton-and-hove-albion,Brighton,24,26,20
+fussballdaten,2023,england,2022/2023,Premier League,17,9,fc-chelsea,Chelsea,24,20,19
+fussballdaten,2023,england,2022/2023,Premier League,17,10,fc-brentford,Brentford,20,25,27
+fussballdaten,2023,england,2022/2023,Premier League,17,11,crystal-palace,Crystal Palace,20,16,22
+fussballdaten,2023,england,2022/2023,Premier League,17,12,aston-villa,Aston Villa,18,17,25
+fussballdaten,2023,england,2022/2023,Premier League,17,13,leicester-city,Leicester,17,25,28
+fussballdaten,2023,england,2022/2023,Premier League,17,14,afc-bournemouth,Bournemouth,16,18,34
+fussballdaten,2023,england,2022/2023,Premier League,17,15,leeds-united,Leeds United,15,23,29
+fussballdaten,2023,england,2022/2023,Premier League,17,16,west-ham-united,West Ham,14,13,20
+fussballdaten,2023,england,2022/2023,Premier League,17,17,fc-everton,Everton,14,12,19
+fussballdaten,2023,england,2022/2023,Premier League,17,18,wolverhampton-wanderers,Wolverhampton,13,10,25
+fussballdaten,2023,england,2022/2023,Premier League,17,19,nottingham-forest,Nottingham,13,11,33
+fussballdaten,2023,england,2022/2023,Premier League,17,20,fc-southampton,Southampton,12,14,30
 fussballdaten,2023,england,2022/2023,Premier League,1,1,tottenham-hotspur,Tottenham,3,4,1
 fussballdaten,2023,england,2022/2023,Premier League,1,2,newcastle-united,Newcastle,3,2,0
 fussballdaten,2023,england,2022/2023,Premier League,1,3,afc-bournemouth,Bournemouth,3,2,0
@@ -839,46 +1079,246 @@ fussballdaten,2023,england,2022/2023,Premier League,1,17,west-ham-united,West Ha
 fussballdaten,2023,england,2022/2023,Premier League,1,18,crystal-palace,Crystal Palace,0,0,2
 fussballdaten,2023,england,2022/2023,Premier League,1,19,nottingham-forest,Nottingham,0,0,2
 fussballdaten,2023,england,2022/2023,Premier League,1,20,fc-southampton,Southampton,0,1,4
-fussballdaten,2023,england,2022/2023,Premier League,10,1,fc-arsenal,Arsenal,21,20,8
-fussballdaten,2023,england,2022/2023,Premier League,10,2,manchester-city,Man. City,20,29,9
-fussballdaten,2023,england,2022/2023,Premier League,10,3,tottenham-hotspur,Tottenham,17,19,10
-fussballdaten,2023,england,2022/2023,Premier League,10,4,brighton-and-hove-albion,Brighton,14,14,8
-fussballdaten,2023,england,2022/2023,Premier League,10,5,fc-chelsea,Chelsea,13,10,10
-fussballdaten,2023,england,2022/2023,Premier League,10,6,manchester-united,Man. United,12,11,14
-fussballdaten,2023,england,2022/2023,Premier League,10,7,newcastle-united,Newcastle,11,12,8
-fussballdaten,2023,england,2022/2023,Premier League,10,8,fc-fulham,Fulham,11,13,15
-fussballdaten,2023,england,2022/2023,Premier League,10,9,fc-liverpool,Liverpool,10,18,9
-fussballdaten,2023,england,2022/2023,Premier League,10,10,fc-brentford,Brentford,10,15,12
-fussballdaten,2023,england,2022/2023,Premier League,10,11,fc-everton,Everton,10,7,7
-fussballdaten,2023,england,2022/2023,Premier League,10,12,leeds-united,Leeds United,9,10,10
-fussballdaten,2023,england,2022/2023,Premier League,10,13,afc-bournemouth,Bournemouth,9,6,19
-fussballdaten,2023,england,2022/2023,Premier League,10,14,aston-villa,Aston Villa,8,6,10
-fussballdaten,2023,england,2022/2023,Premier League,10,15,west-ham-united,West Ham,7,5,9
-fussballdaten,2023,england,2022/2023,Premier League,10,16,fc-southampton,Southampton,7,8,13
-fussballdaten,2023,england,2022/2023,Premier League,10,17,crystal-palace,Crystal Palace,6,8,11
-fussballdaten,2023,england,2022/2023,Premier League,10,18,wolverhampton-wanderers,Wolverhampton,6,3,9
-fussballdaten,2023,england,2022/2023,Premier League,10,19,leicester-city,Leicester,4,14,22
-fussballdaten,2023,england,2022/2023,Premier League,10,20,nottingham-forest,Nottingham,4,6,21
+fussballdaten,2023,england,2022/2023,Premier League,10,1,fc-arsenal,Arsenal,24,23,10
+fussballdaten,2023,england,2022/2023,Premier League,10,2,manchester-city,Man. City,23,33,9
+fussballdaten,2023,england,2022/2023,Premier League,10,3,tottenham-hotspur,Tottenham,20,20,10
+fussballdaten,2023,england,2022/2023,Premier League,10,4,fc-chelsea,Chelsea,16,14,12
+fussballdaten,2023,england,2022/2023,Premier League,10,5,manchester-united,Man. United,16,14,16
+fussballdaten,2023,england,2022/2023,Premier League,10,6,newcastle-united,Newcastle,14,17,9
+fussballdaten,2023,england,2022/2023,Premier League,10,7,brighton-and-hove-albion,Brighton,14,14,9
+fussballdaten,2023,england,2022/2023,Premier League,10,8,fc-fulham,Fulham,14,16,19
+fussballdaten,2023,england,2022/2023,Premier League,10,9,afc-bournemouth,Bournemouth,12,8,20
+fussballdaten,2023,england,2022/2023,Premier League,10,10,fc-liverpool,Liverpool,10,20,12
+fussballdaten,2023,england,2022/2023,Premier League,10,11,fc-brentford,Brentford,10,16,17
+fussballdaten,2023,england,2022/2023,Premier League,10,12,fc-everton,Everton,10,8,9
+fussballdaten,2023,england,2022/2023,Premier League,10,13,crystal-palace,Crystal Palace,10,11,13
+fussballdaten,2023,england,2022/2023,Premier League,10,14,west-ham-united,West Ham,10,8,10
+fussballdaten,2023,england,2022/2023,Premier League,10,15,leeds-united,Leeds United,9,11,12
+fussballdaten,2023,england,2022/2023,Premier League,10,16,aston-villa,Aston Villa,9,7,11
+fussballdaten,2023,england,2022/2023,Premier League,10,17,fc-southampton,Southampton,7,8,17
+fussballdaten,2023,england,2022/2023,Premier League,10,18,wolverhampton-wanderers,Wolverhampton,6,3,12
+fussballdaten,2023,england,2022/2023,Premier League,10,19,nottingham-forest,Nottingham,5,7,22
+fussballdaten,2023,england,2022/2023,Premier League,10,20,leicester-city,Leicester,4,15,24
+fussballdaten,2023,england,2022/2023,Premier League,19,1,fc-arsenal,Arsenal,44,40,14
+fussballdaten,2023,england,2022/2023,Premier League,19,2,manchester-city,Man. City,39,45,16
+fussballdaten,2023,england,2022/2023,Premier League,19,3,manchester-united,Man. United,36,28,21
+fussballdaten,2023,england,2022/2023,Premier League,19,4,newcastle-united,Newcastle,35,32,11
+fussballdaten,2023,england,2022/2023,Premier League,19,5,tottenham-hotspur,Tottenham,33,37,25
+fussballdaten,2023,england,2022/2023,Premier League,19,6,fc-fulham,Fulham,31,32,28
+fussballdaten,2023,england,2022/2023,Premier League,19,7,fc-liverpool,Liverpool,28,34,22
+fussballdaten,2023,england,2022/2023,Premier League,19,8,brighton-and-hove-albion,Brighton,27,32,25
+fussballdaten,2023,england,2022/2023,Premier League,19,9,fc-brentford,Brentford,26,30,28
+fussballdaten,2023,england,2022/2023,Premier League,19,10,fc-chelsea,Chelsea,25,21,21
+fussballdaten,2023,england,2022/2023,Premier League,19,11,crystal-palace,Crystal Palace,23,18,26
+fussballdaten,2023,england,2022/2023,Premier League,19,12,aston-villa,Aston Villa,22,20,26
+fussballdaten,2023,england,2022/2023,Premier League,19,13,leicester-city,Leicester,17,26,31
+fussballdaten,2023,england,2022/2023,Premier League,19,14,leeds-united,Leeds United,17,25,31
+fussballdaten,2023,england,2022/2023,Premier League,19,15,nottingham-forest,Nottingham,17,13,34
+fussballdaten,2023,england,2022/2023,Premier League,19,16,afc-bournemouth,Bournemouth,16,18,39
+fussballdaten,2023,england,2022/2023,Premier League,19,17,west-ham-united,West Ham,15,15,24
+fussballdaten,2023,england,2022/2023,Premier League,19,18,fc-everton,Everton,15,14,24
+fussballdaten,2023,england,2022/2023,Premier League,19,19,wolverhampton-wanderers,Wolverhampton,14,11,27
+fussballdaten,2023,england,2022/2023,Premier League,19,20,fc-southampton,Southampton,12,15,33
+fussballdaten,2023,england,2022/2023,Premier League,26,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,26,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,26,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,26,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,26,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,26,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,26,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,26,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,26,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,26,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,26,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,26,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,26,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,26,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,26,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,26,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,26,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,26,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,26,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,26,20,fc-southampton,Southampton,15,17,34
 fussballdaten,2023,england,2022/2023,Premier League,8,1,fc-arsenal,Arsenal,18,17,7
 fussballdaten,2023,england,2022/2023,Premier League,8,2,manchester-city,Man. City,17,23,6
 fussballdaten,2023,england,2022/2023,Premier League,8,3,tottenham-hotspur,Tottenham,17,18,7
-fussballdaten,2023,england,2022/2023,Premier League,8,4,brighton-and-hove-albion,Brighton,13,11,5
-fussballdaten,2023,england,2022/2023,Premier League,8,5,manchester-united,Man. United,12,8,8
-fussballdaten,2023,england,2022/2023,Premier League,8,6,fc-fulham,Fulham,11,12,11
-fussballdaten,2023,england,2022/2023,Premier League,8,7,fc-chelsea,Chelsea,10,8,9
+fussballdaten,2023,england,2022/2023,Premier League,8,4,fc-fulham,Fulham,14,14,12
+fussballdaten,2023,england,2022/2023,Premier League,8,5,brighton-and-hove-albion,Brighton,13,11,5
+fussballdaten,2023,england,2022/2023,Premier League,8,6,manchester-united,Man. United,13,9,9
+fussballdaten,2023,england,2022/2023,Premier League,8,7,fc-chelsea,Chelsea,10,9,11
 fussballdaten,2023,england,2022/2023,Premier League,8,8,fc-liverpool,Liverpool,9,15,6
 fussballdaten,2023,england,2022/2023,Premier League,8,9,fc-brentford,Brentford,9,15,12
 fussballdaten,2023,england,2022/2023,Premier League,8,10,newcastle-united,Newcastle,8,8,7
 fussballdaten,2023,england,2022/2023,Premier League,8,11,leeds-united,Leeds United,8,10,10
 fussballdaten,2023,england,2022/2023,Premier League,8,12,afc-bournemouth,Bournemouth,8,6,19
 fussballdaten,2023,england,2022/2023,Premier League,8,13,fc-everton,Everton,7,5,6
-fussballdaten,2023,england,2022/2023,Premier League,8,14,fc-southampton,Southampton,7,7,11
-fussballdaten,2023,england,2022/2023,Premier League,8,15,aston-villa,Aston Villa,7,6,10
-fussballdaten,2023,england,2022/2023,Premier League,8,16,crystal-palace,Crystal Palace,6,7,9
+fussballdaten,2023,england,2022/2023,Premier League,8,14,crystal-palace,Crystal Palace,7,8,10
+fussballdaten,2023,england,2022/2023,Premier League,8,15,fc-southampton,Southampton,7,7,11
+fussballdaten,2023,england,2022/2023,Premier League,8,16,aston-villa,Aston Villa,7,6,10
 fussballdaten,2023,england,2022/2023,Premier League,8,17,wolverhampton-wanderers,Wolverhampton,6,3,7
 fussballdaten,2023,england,2022/2023,Premier League,8,18,west-ham-united,West Ham,4,3,9
 fussballdaten,2023,england,2022/2023,Premier League,8,19,nottingham-forest,Nottingham,4,6,17
 fussballdaten,2023,england,2022/2023,Premier League,8,20,leicester-city,Leicester,1,10,22
+fussballdaten,2023,england,2022/2023,Premier League,21,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,21,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,21,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,21,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,21,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,21,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,21,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,21,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,21,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,21,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,21,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,21,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,21,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,21,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,21,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,21,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,21,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,21,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,21,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,21,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,38,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,38,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,38,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,38,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,38,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,38,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,38,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,38,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,38,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,38,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,38,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,38,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,38,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,38,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,38,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,38,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,38,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,38,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,38,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,38,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,36,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,36,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,36,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,36,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,36,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,36,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,36,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,36,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,36,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,36,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,36,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,36,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,36,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,36,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,36,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,36,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,36,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,36,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,36,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,36,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,31,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,31,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,31,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,31,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,31,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,31,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,31,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,31,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,31,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,31,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,31,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,31,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,31,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,31,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,31,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,31,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,31,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,31,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,31,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,31,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,30,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,30,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,30,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,30,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,30,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,30,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,30,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,30,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,30,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,30,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,30,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,30,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,30,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,30,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,30,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,30,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,30,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,30,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,30,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,30,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,37,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,37,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,37,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,37,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,37,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,37,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,37,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,37,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,37,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,37,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,37,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,37,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,37,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,37,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,37,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,37,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,37,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,37,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,37,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,37,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,24,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,24,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,24,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,24,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,24,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,24,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,24,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,24,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,24,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,24,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,24,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,24,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,24,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,24,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,24,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,24,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,24,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,24,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,24,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,24,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,23,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,23,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,23,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,23,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,23,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,23,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,23,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,23,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,23,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,23,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,23,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,23,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,23,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,23,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,23,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,23,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,23,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,23,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,23,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,23,20,fc-southampton,Southampton,15,17,34
 fussballdaten,2023,england,2022/2023,Premier League,4,1,fc-arsenal,Arsenal,12,11,3
 fussballdaten,2023,england,2022/2023,Premier League,4,2,manchester-city,Man. City,10,13,5
 fussballdaten,2023,england,2022/2023,Premier League,4,3,tottenham-hotspur,Tottenham,10,9,3
@@ -899,6 +1339,26 @@ fussballdaten,2023,england,2022/2023,Premier League,4,17,afc-bournemouth,Bournem
 fussballdaten,2023,england,2022/2023,Premier League,4,18,fc-everton,Everton,2,3,5
 fussballdaten,2023,england,2022/2023,Premier League,4,19,wolverhampton-wanderers,Wolverhampton,2,2,4
 fussballdaten,2023,england,2022/2023,Premier League,4,20,leicester-city,Leicester,1,6,10
+fussballdaten,2023,england,2022/2023,Premier League,15,1,fc-arsenal,Arsenal,34,31,11
+fussballdaten,2023,england,2022/2023,Premier League,15,2,manchester-city,Man. City,32,39,12
+fussballdaten,2023,england,2022/2023,Premier League,15,3,newcastle-united,Newcastle,27,28,11
+fussballdaten,2023,england,2022/2023,Premier League,15,4,tottenham-hotspur,Tottenham,26,27,18
+fussballdaten,2023,england,2022/2023,Premier League,15,5,manchester-united,Man. United,24,19,20
+fussballdaten,2023,england,2022/2023,Premier League,15,6,fc-fulham,Fulham,22,25,25
+fussballdaten,2023,england,2022/2023,Premier League,15,7,brighton-and-hove-albion,Brighton,21,22,17
+fussballdaten,2023,england,2022/2023,Premier League,15,8,fc-chelsea,Chelsea,21,18,18
+fussballdaten,2023,england,2022/2023,Premier League,15,9,crystal-palace,Crystal Palace,20,16,18
+fussballdaten,2023,england,2022/2023,Premier League,15,10,fc-liverpool,Liverpool,19,25,16
+fussballdaten,2023,england,2022/2023,Premier League,15,11,fc-brentford,Brentford,16,21,24
+fussballdaten,2023,england,2022/2023,Premier League,15,12,leeds-united,Leeds United,15,19,22
+fussballdaten,2023,england,2022/2023,Premier League,15,13,aston-villa,Aston Villa,15,14,21
+fussballdaten,2023,england,2022/2023,Premier League,15,14,leicester-city,Leicester,14,23,25
+fussballdaten,2023,england,2022/2023,Premier League,15,15,west-ham-united,West Ham,14,12,15
+fussballdaten,2023,england,2022/2023,Premier League,15,16,fc-everton,Everton,14,11,14
+fussballdaten,2023,england,2022/2023,Premier League,15,17,afc-bournemouth,Bournemouth,13,15,32
+fussballdaten,2023,england,2022/2023,Premier League,15,18,fc-southampton,Southampton,12,12,24
+fussballdaten,2023,england,2022/2023,Premier League,15,19,wolverhampton-wanderers,Wolverhampton,10,8,22
+fussballdaten,2023,england,2022/2023,Premier League,15,20,nottingham-forest,Nottingham,10,10,30
 fussballdaten,2023,england,2022/2023,Premier League,3,1,fc-arsenal,Arsenal,9,9,2
 fussballdaten,2023,england,2022/2023,Premier League,3,2,manchester-city,Man. City,7,9,3
 fussballdaten,2023,england,2022/2023,Premier League,3,3,tottenham-hotspur,Tottenham,7,7,3
@@ -919,6 +1379,26 @@ fussballdaten,2023,england,2022/2023,Premier League,3,17,fc-everton,Everton,1,2,
 fussballdaten,2023,england,2022/2023,Premier League,3,18,wolverhampton-wanderers,Wolverhampton,1,1,3
 fussballdaten,2023,england,2022/2023,Premier League,3,19,leicester-city,Leicester,1,5,8
 fussballdaten,2023,england,2022/2023,Premier League,3,20,west-ham-united,West Ham,0,0,5
+fussballdaten,2023,england,2022/2023,Premier League,12,1,fc-arsenal,Arsenal,27,24,10
+fussballdaten,2023,england,2022/2023,Premier League,12,2,manchester-city,Man. City,23,33,10
+fussballdaten,2023,england,2022/2023,Premier League,12,3,tottenham-hotspur,Tottenham,23,22,12
+fussballdaten,2023,england,2022/2023,Premier League,12,4,fc-chelsea,Chelsea,20,16,12
+fussballdaten,2023,england,2022/2023,Premier League,12,5,manchester-united,Man. United,20,16,16
+fussballdaten,2023,england,2022/2023,Premier League,12,6,newcastle-united,Newcastle,18,18,9
+fussballdaten,2023,england,2022/2023,Premier League,12,7,fc-fulham,Fulham,18,21,21
+fussballdaten,2023,england,2022/2023,Premier League,12,8,fc-liverpool,Liverpool,16,22,12
+fussballdaten,2023,england,2022/2023,Premier League,12,9,brighton-and-hove-albion,Brighton,15,14,11
+fussballdaten,2023,england,2022/2023,Premier League,12,10,fc-brentford,Brentford,14,18,17
+fussballdaten,2023,england,2022/2023,Premier League,12,11,crystal-palace,Crystal Palace,14,13,14
+fussballdaten,2023,england,2022/2023,Premier League,12,12,afc-bournemouth,Bournemouth,13,10,23
+fussballdaten,2023,england,2022/2023,Premier League,12,13,west-ham-united,West Ham,11,9,12
+fussballdaten,2023,england,2022/2023,Premier League,12,14,fc-southampton,Southampton,11,10,18
+fussballdaten,2023,england,2022/2023,Premier League,12,15,fc-everton,Everton,10,8,12
+fussballdaten,2023,england,2022/2023,Premier League,12,16,leeds-united,Leeds United,9,11,15
+fussballdaten,2023,england,2022/2023,Premier League,12,17,aston-villa,Aston Villa,9,7,16
+fussballdaten,2023,england,2022/2023,Premier League,12,18,wolverhampton-wanderers,Wolverhampton,9,5,14
+fussballdaten,2023,england,2022/2023,Premier League,12,19,leicester-city,Leicester,8,17,24
+fussballdaten,2023,england,2022/2023,Premier League,12,20,nottingham-forest,Nottingham,6,7,23
 fussballdaten,2023,england,2022/2023,Premier League,2,1,manchester-city,Man. City,6,6,0
 fussballdaten,2023,england,2022/2023,Premier League,2,2,fc-arsenal,Arsenal,6,6,2
 fussballdaten,2023,england,2022/2023,Premier League,2,3,fc-brentford,Brentford,4,6,2
@@ -939,6 +1419,26 @@ fussballdaten,2023,england,2022/2023,Premier League,2,17,fc-southampton,Southamp
 fussballdaten,2023,england,2022/2023,Premier League,2,18,fc-everton,Everton,0,1,3
 fussballdaten,2023,england,2022/2023,Premier League,2,19,west-ham-united,West Ham,0,0,3
 fussballdaten,2023,england,2022/2023,Premier League,2,20,manchester-united,Man. United,0,1,6
+fussballdaten,2023,england,2022/2023,Premier League,13,1,fc-arsenal,Arsenal,28,25,11
+fussballdaten,2023,england,2022/2023,Premier League,13,2,manchester-city,Man. City,26,36,11
+fussballdaten,2023,england,2022/2023,Premier League,13,3,tottenham-hotspur,Tottenham,23,23,14
+fussballdaten,2023,england,2022/2023,Premier League,13,4,newcastle-united,Newcastle,21,20,10
+fussballdaten,2023,england,2022/2023,Premier League,13,5,fc-chelsea,Chelsea,21,17,13
+fussballdaten,2023,england,2022/2023,Premier League,13,6,fc-fulham,Fulham,21,24,23
+fussballdaten,2023,england,2022/2023,Premier League,13,7,manchester-united,Man. United,21,17,17
+fussballdaten,2023,england,2022/2023,Premier League,13,8,fc-liverpool,Liverpool,16,22,13
+fussballdaten,2023,england,2022/2023,Premier League,13,9,brighton-and-hove-albion,Brighton,15,15,14
+fussballdaten,2023,england,2022/2023,Premier League,13,10,west-ham-united,West Ham,14,11,12
+fussballdaten,2023,england,2022/2023,Premier League,13,11,fc-brentford,Brentford,14,18,21
+fussballdaten,2023,england,2022/2023,Premier League,13,12,crystal-palace,Crystal Palace,14,13,17
+fussballdaten,2023,england,2022/2023,Premier League,13,13,fc-everton,Everton,13,11,12
+fussballdaten,2023,england,2022/2023,Premier League,13,14,afc-bournemouth,Bournemouth,13,10,25
+fussballdaten,2023,england,2022/2023,Premier League,13,15,aston-villa,Aston Villa,12,11,16
+fussballdaten,2023,england,2022/2023,Premier League,13,16,fc-southampton,Southampton,12,11,19
+fussballdaten,2023,england,2022/2023,Premier League,13,17,leicester-city,Leicester,11,21,24
+fussballdaten,2023,england,2022/2023,Premier League,13,18,leeds-united,Leeds United,9,13,18
+fussballdaten,2023,england,2022/2023,Premier League,13,19,wolverhampton-wanderers,Wolverhampton,9,5,18
+fussballdaten,2023,england,2022/2023,Premier League,13,20,nottingham-forest,Nottingham,9,8,23
 fussballdaten,2023,england,2022/2023,Premier League,5,1,fc-arsenal,Arsenal,15,13,4
 fussballdaten,2023,england,2022/2023,Premier League,5,2,manchester-city,Man. City,13,19,5
 fussballdaten,2023,england,2022/2023,Premier League,5,3,tottenham-hotspur,Tottenham,11,10,4
@@ -959,6 +1459,66 @@ fussballdaten,2023,england,2022/2023,Premier League,5,17,fc-everton,Everton,3,4,
 fussballdaten,2023,england,2022/2023,Premier League,5,18,wolverhampton-wanderers,Wolverhampton,3,2,4
 fussballdaten,2023,england,2022/2023,Premier League,5,19,aston-villa,Aston Villa,3,4,9
 fussballdaten,2023,england,2022/2023,Premier League,5,20,leicester-city,Leicester,1,6,11
+fussballdaten,2023,england,2022/2023,Premier League,14,1,fc-arsenal,Arsenal,31,30,11
+fussballdaten,2023,england,2022/2023,Premier League,14,2,manchester-city,Man. City,29,37,11
+fussballdaten,2023,england,2022/2023,Premier League,14,3,tottenham-hotspur,Tottenham,26,26,16
+fussballdaten,2023,england,2022/2023,Premier League,14,4,newcastle-united,Newcastle,24,24,10
+fussballdaten,2023,england,2022/2023,Premier League,14,5,manchester-united,Man. United,24,18,17
+fussballdaten,2023,england,2022/2023,Premier League,14,6,fc-fulham,Fulham,22,24,23
+fussballdaten,2023,england,2022/2023,Premier League,14,7,fc-chelsea,Chelsea,21,18,17
+fussballdaten,2023,england,2022/2023,Premier League,14,8,brighton-and-hove-albion,Brighton,18,19,15
+fussballdaten,2023,england,2022/2023,Premier League,14,9,crystal-palace,Crystal Palace,17,14,17
+fussballdaten,2023,england,2022/2023,Premier League,14,10,fc-liverpool,Liverpool,16,23,15
+fussballdaten,2023,england,2022/2023,Premier League,14,11,fc-brentford,Brentford,15,19,22
+fussballdaten,2023,england,2022/2023,Premier League,14,12,fc-everton,Everton,14,11,12
+fussballdaten,2023,england,2022/2023,Premier League,14,13,west-ham-united,West Ham,14,11,13
+fussballdaten,2023,england,2022/2023,Premier League,14,14,afc-bournemouth,Bournemouth,13,12,28
+fussballdaten,2023,england,2022/2023,Premier League,14,15,leeds-united,Leeds United,12,15,19
+fussballdaten,2023,england,2022/2023,Premier League,14,16,fc-southampton,Southampton,12,11,20
+fussballdaten,2023,england,2022/2023,Premier League,14,17,aston-villa,Aston Villa,12,11,20
+fussballdaten,2023,england,2022/2023,Premier League,14,18,leicester-city,Leicester,11,21,25
+fussballdaten,2023,england,2022/2023,Premier League,14,19,wolverhampton-wanderers,Wolverhampton,10,6,19
+fussballdaten,2023,england,2022/2023,Premier League,14,20,nottingham-forest,Nottingham,9,8,28
+fussballdaten,2023,england,2022/2023,Premier League,22,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,22,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,22,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,22,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,22,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,22,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,22,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,22,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,22,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,22,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,22,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,22,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,22,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,22,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,22,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,22,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,22,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,22,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,22,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,22,20,fc-southampton,Southampton,15,17,34
+fussballdaten,2023,england,2022/2023,Premier League,25,1,fc-arsenal,Arsenal,47,42,14
+fussballdaten,2023,england,2022/2023,Premier League,25,2,manchester-city,Man. City,39,46,18
+fussballdaten,2023,england,2022/2023,Premier League,25,3,manchester-united,Man. United,39,30,22
+fussballdaten,2023,england,2022/2023,Premier League,25,4,newcastle-united,Newcastle,38,33,11
+fussballdaten,2023,england,2022/2023,Premier League,25,5,tottenham-hotspur,Tottenham,33,37,27
+fussballdaten,2023,england,2022/2023,Premier League,25,6,fc-fulham,Fulham,31,32,29
+fussballdaten,2023,england,2022/2023,Premier League,25,7,brighton-and-hove-albion,Brighton,30,35,25
+fussballdaten,2023,england,2022/2023,Premier League,25,8,fc-brentford,Brentford,29,32,28
+fussballdaten,2023,england,2022/2023,Premier League,25,9,fc-liverpool,Liverpool,28,34,25
+fussballdaten,2023,england,2022/2023,Premier League,25,10,fc-chelsea,Chelsea,28,22,21
+fussballdaten,2023,england,2022/2023,Premier League,25,11,aston-villa,Aston Villa,25,22,27
+fussballdaten,2023,england,2022/2023,Premier League,25,12,crystal-palace,Crystal Palace,23,18,27
+fussballdaten,2023,england,2022/2023,Premier League,25,13,nottingham-forest,Nottingham,20,15,34
+fussballdaten,2023,england,2022/2023,Premier League,25,14,leeds-united,Leeds United,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,25,15,leicester-city,Leicester,17,26,33
+fussballdaten,2023,england,2022/2023,Premier League,25,16,wolverhampton-wanderers,Wolverhampton,17,12,27
+fussballdaten,2023,england,2022/2023,Premier League,25,17,afc-bournemouth,Bournemouth,16,18,41
+fussballdaten,2023,england,2022/2023,Premier League,25,18,west-ham-united,West Ham,15,15,25
+fussballdaten,2023,england,2022/2023,Premier League,25,19,fc-everton,Everton,15,15,26
+fussballdaten,2023,england,2022/2023,Premier League,25,20,fc-southampton,Southampton,15,17,34
 fussballdaten,2017,england,2016/2017,Premier League,32,1,fc-chelsea,Chelsea,78,69,28
 fussballdaten,2017,england,2016/2017,Premier League,32,2,tottenham-hotspur,Tottenham,71,65,22
 fussballdaten,2017,england,2016/2017,Premier League,32,3,fc-liverpool,Liverpool,63,68,40
@@ -5371,24 +5931,42 @@ fussballdaten,2022,bundesliga,2021/2022,Bundesliga,25,15,arminia-bielefeld,Biele
 fussballdaten,2022,bundesliga,2021/2022,Bundesliga,25,16,hertha-bsc,Hertha BSC,23,26,58
 fussballdaten,2022,bundesliga,2021/2022,Bundesliga,25,17,vfb-stuttgart,Stuttgart,22,31,47
 fussballdaten,2022,bundesliga,2021/2022,Bundesliga,25,18,spvgg-greuther-fuerth,Fürth,14,23,64
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,1,1-fc-union-berlin,Union Berlin,17,15,6
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,2,sc-freiburg,Freiburg,17,12,6
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,3,fc-bayern-muenchen,Bayern,15,23,6
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,4,borussia-dortmund,Dortmund,15,11,10
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,5,1899-hoffenheim,Hoffenheim,14,13,8
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,6,eintracht-frankfurt,Frankfurt,14,16,13
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,7,1-fc-koeln,Köln,13,14,10
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,8,sv-werder-bremen,Bremen,12,18,13
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,9,borussia-moenchengladbach,M'gladbach,12,11,10
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,10,fc-augsburg,Augsburg,12,8,12
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,11,rb-leipzig,RB Leipzig,11,13,12
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,12,1-fsv-mainz-05,Mainz,11,8,12
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,13,vfl-wolfsburg,Wolfsburg,8,8,14
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,14,hertha-bsc,Hertha BSC,7,8,10
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,15,fc-schalke-04,Schalke,6,10,17
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,16,vfb-stuttgart,Stuttgart,5,9,13
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,17,bayer-leverkusen,Leverkusen,5,9,16
-fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,18,vfl-bochum,VfL Bochum,1,5,23
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,1,1-fc-union-berlin,Union Berlin,20,16,6
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,2,sc-freiburg,Freiburg,18,14,8
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,3,fc-bayern-muenchen,Bayern,16,25,8
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,4,borussia-dortmund,Dortmund,16,13,12
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,5,sv-werder-bremen,Bremen,15,20,14
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,6,borussia-moenchengladbach,M'gladbach,15,16,12
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,7,1899-hoffenheim,Hoffenheim,14,14,10
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,8,eintracht-frankfurt,Frankfurt,14,16,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,9,1-fc-koeln,Köln,13,16,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,10,fc-augsburg,Augsburg,13,9,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,11,rb-leipzig,RB Leipzig,12,14,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,12,1-fsv-mainz-05,Mainz,12,9,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,13,vfl-wolfsburg,Wolfsburg,9,9,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,14,hertha-bsc,Hertha BSC,8,10,12
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,15,bayer-leverkusen,Leverkusen,8,13,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,16,fc-schalke-04,Schalke,6,10,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,17,vfb-stuttgart,Stuttgart,5,9,14
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,9,18,vfl-bochum,VfL Bochum,4,8,23
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,1,1-fc-union-berlin,Union Berlin,23,19,8
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,2,fc-bayern-muenchen,Bayern,22,32,8
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,3,sc-freiburg,Freiburg,21,16,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,4,eintracht-frankfurt,Frankfurt,20,24,18
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,5,borussia-dortmund,Dortmund,19,18,14
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,6,1-fsv-mainz-05,Mainz,18,16,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,7,1899-hoffenheim,Hoffenheim,17,17,12
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,8,rb-leipzig,RB Leipzig,16,20,18
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,9,borussia-moenchengladbach,M'gladbach,16,19,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,10,1-fc-koeln,Köln,16,19,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,11,sv-werder-bremen,Bremen,15,20,18
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,12,fc-augsburg,Augsburg,14,14,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,13,hertha-bsc,Hertha BSC,11,14,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,14,vfl-wolfsburg,Wolfsburg,11,13,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,15,bayer-leverkusen,Leverkusen,9,16,23
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,16,vfb-stuttgart,Stuttgart,8,13,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,17,vfl-bochum,VfL Bochum,7,11,28
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,11,18,fc-schalke-04,Schalke,6,11,26
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,7,1,1-fc-union-berlin,Union Berlin,17,15,4
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,7,2,borussia-dortmund,Dortmund,15,9,7
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,7,3,sc-freiburg,Freiburg,14,10,5
@@ -5407,6 +5985,24 @@ fussballdaten,2023,bundesliga,2022/2023,Bundesliga,7,15,bayer-leverkusen,Leverku
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,7,16,vfb-stuttgart,Stuttgart,5,7,10
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,7,17,vfl-wolfsburg,Wolfsburg,5,5,12
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,7,18,vfl-bochum,VfL Bochum,1,5,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,1,fc-bayern-muenchen,Bayern,34,49,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,2,sc-freiburg,Freiburg,30,25,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,3,rb-leipzig,RB Leipzig,28,30,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,4,eintracht-frankfurt,Frankfurt,27,32,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,5,1-fc-union-berlin,Union Berlin,27,24,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,6,borussia-dortmund,Dortmund,25,25,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,7,vfl-wolfsburg,Wolfsburg,23,24,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,8,borussia-moenchengladbach,M'gladbach,22,28,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,9,sv-werder-bremen,Bremen,21,25,27
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,10,1-fsv-mainz-05,Mainz,19,19,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,11,1899-hoffenheim,Hoffenheim,18,22,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,12,bayer-leverkusen,Leverkusen,18,25,26
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,13,1-fc-koeln,Köln,17,21,29
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,14,fc-augsburg,Augsburg,15,18,26
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,15,hertha-bsc,Hertha BSC,14,19,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,16,vfb-stuttgart,Stuttgart,14,18,27
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,17,vfl-bochum,VfL Bochum,13,14,36
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,16,18,fc-schalke-04,Schalke,9,13,32
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,6,1,1-fc-union-berlin,Union Berlin,14,13,4
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,6,2,sc-freiburg,Freiburg,13,10,5
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,6,3,fc-bayern-muenchen,Bayern,12,19,5
@@ -5443,6 +6039,24 @@ fussballdaten,2023,bundesliga,2022/2023,Bundesliga,1,15,1899-hoffenheim,Hoffenhe
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,1,16,hertha-bsc,Hertha BSC,0,1,3
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,1,17,fc-augsburg,Augsburg,0,0,4
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,1,18,eintracht-frankfurt,Frankfurt,0,1,6
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,1,1-fc-union-berlin,Union Berlin,23,18,6
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,2,fc-bayern-muenchen,Bayern,19,30,8
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,3,sc-freiburg,Freiburg,18,14,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,4,1899-hoffenheim,Hoffenheim,17,17,10
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,5,eintracht-frankfurt,Frankfurt,17,21,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,6,borussia-moenchengladbach,M'gladbach,16,18,14
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,7,1-fc-koeln,Köln,16,19,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,8,borussia-dortmund,Dortmund,16,13,14
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,9,sv-werder-bremen,Bremen,15,20,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,10,rb-leipzig,RB Leipzig,15,17,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,11,1-fsv-mainz-05,Mainz,15,11,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,12,fc-augsburg,Augsburg,13,11,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,13,vfl-wolfsburg,Wolfsburg,10,11,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,14,vfb-stuttgart,Stuttgart,8,13,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,15,hertha-bsc,Hertha BSC,8,12,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,16,bayer-leverkusen,Leverkusen,8,14,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,17,fc-schalke-04,Schalke,6,10,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,10,18,vfl-bochum,VfL Bochum,4,9,27
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,8,1,1-fc-union-berlin,Union Berlin,17,15,6
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,8,2,sc-freiburg,Freiburg,17,12,6
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,8,3,fc-bayern-muenchen,Bayern,15,23,6
@@ -5479,6 +6093,24 @@ fussballdaten,2023,bundesliga,2022/2023,Bundesliga,4,15,vfl-wolfsburg,Wolfsburg,
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,4,16,fc-schalke-04,Schalke,2,4,11
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,4,17,hertha-bsc,Hertha BSC,1,2,6
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,4,18,vfl-bochum,VfL Bochum,0,3,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,1,fc-bayern-muenchen,Bayern,34,49,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,2,sc-freiburg,Freiburg,30,25,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,3,rb-leipzig,RB Leipzig,28,30,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,4,eintracht-frankfurt,Frankfurt,27,32,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,5,1-fc-union-berlin,Union Berlin,27,24,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,6,borussia-dortmund,Dortmund,25,25,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,7,vfl-wolfsburg,Wolfsburg,23,24,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,8,borussia-moenchengladbach,M'gladbach,22,28,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,9,sv-werder-bremen,Bremen,21,25,27
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,10,1-fsv-mainz-05,Mainz,19,19,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,11,1899-hoffenheim,Hoffenheim,18,22,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,12,bayer-leverkusen,Leverkusen,18,25,26
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,13,1-fc-koeln,Köln,17,21,29
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,14,fc-augsburg,Augsburg,15,18,26
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,15,hertha-bsc,Hertha BSC,14,19,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,16,vfb-stuttgart,Stuttgart,14,18,27
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,17,vfl-bochum,VfL Bochum,13,14,36
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,15,18,fc-schalke-04,Schalke,9,13,32
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,3,1,fc-bayern-muenchen,Bayern,9,15,1
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,3,2,borussia-moenchengladbach,M'gladbach,7,6,3
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,3,3,1-fc-union-berlin,Union Berlin,7,5,2
@@ -5497,6 +6129,24 @@ fussballdaten,2023,bundesliga,2022/2023,Bundesliga,3,15,eintracht-frankfurt,Fran
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,3,16,hertha-bsc,Hertha BSC,1,2,5
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,3,17,bayer-leverkusen,Leverkusen,0,1,6
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,3,18,vfl-bochum,VfL Bochum,0,3,12
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,1,1-fc-union-berlin,Union Berlin,26,21,9
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,2,fc-bayern-muenchen,Bayern,25,38,10
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,3,sc-freiburg,Freiburg,24,18,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,4,borussia-dortmund,Dortmund,22,20,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,5,eintracht-frankfurt,Frankfurt,20,25,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,6,rb-leipzig,RB Leipzig,19,22,18
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,7,1899-hoffenheim,Hoffenheim,18,18,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,8,sv-werder-bremen,Bremen,18,21,18
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,9,1-fsv-mainz-05,Mainz,18,18,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,10,1-fc-koeln,Köln,17,20,23
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,11,borussia-moenchengladbach,M'gladbach,16,20,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,12,vfl-wolfsburg,Wolfsburg,14,17,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,13,fc-augsburg,Augsburg,14,15,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,14,hertha-bsc,Hertha BSC,11,14,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,15,vfb-stuttgart,Stuttgart,11,15,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,16,bayer-leverkusen,Leverkusen,9,16,25
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,17,vfl-bochum,VfL Bochum,7,11,32
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,12,18,fc-schalke-04,Schalke,6,11,28
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,2,1,fc-bayern-muenchen,Bayern,6,8,1
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,2,2,borussia-dortmund,Dortmund,6,4,1
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,2,3,1-fc-koeln,Köln,4,5,3
@@ -5515,6 +6165,24 @@ fussballdaten,2023,bundesliga,2022/2023,Bundesliga,2,15,vfl-wolfsburg,Wolfsburg,
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,2,16,eintracht-frankfurt,Frankfurt,1,2,7
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,2,17,vfl-bochum,VfL Bochum,0,3,5
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,2,18,bayer-leverkusen,Leverkusen,0,1,3
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,1,fc-bayern-muenchen,Bayern,28,41,12
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,2,sc-freiburg,Freiburg,27,20,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,3,1-fc-union-berlin,Union Berlin,26,21,14
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,4,borussia-dortmund,Dortmund,25,23,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,5,eintracht-frankfurt,Frankfurt,23,27,21
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,6,rb-leipzig,RB Leipzig,22,25,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,7,sv-werder-bremen,Bremen,21,23,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,8,borussia-moenchengladbach,M'gladbach,19,23,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,9,1899-hoffenheim,Hoffenheim,18,19,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,10,1-fsv-mainz-05,Mainz,18,18,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,11,vfl-wolfsburg,Wolfsburg,17,20,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,12,1-fc-koeln,Köln,17,20,25
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,13,fc-augsburg,Augsburg,14,16,23
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,14,bayer-leverkusen,Leverkusen,12,21,25
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,15,hertha-bsc,Hertha BSC,11,16,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,16,vfb-stuttgart,Stuttgart,11,16,24
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,17,vfl-bochum,VfL Bochum,7,11,35
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,13,18,fc-schalke-04,Schalke,6,12,30
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,5,1,sc-freiburg,Freiburg,12,10,5
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,5,2,borussia-dortmund,Dortmund,12,8,4
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,5,3,fc-bayern-muenchen,Bayern,11,17,3
@@ -5533,6 +6201,24 @@ fussballdaten,2023,bundesliga,2022/2023,Bundesliga,5,15,fc-schalke-04,Schalke,3,
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,5,16,fc-augsburg,Augsburg,3,3,10
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,5,17,vfl-wolfsburg,Wolfsburg,2,4,10
 fussballdaten,2023,bundesliga,2022/2023,Bundesliga,5,18,vfl-bochum,VfL Bochum,0,3,15
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,1,fc-bayern-muenchen,Bayern,31,47,13
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,2,1-fc-union-berlin,Union Berlin,27,23,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,3,sc-freiburg,Freiburg,27,21,16
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,4,eintracht-frankfurt,Frankfurt,26,31,23
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,5,rb-leipzig,RB Leipzig,25,28,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,6,borussia-dortmund,Dortmund,25,23,17
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,7,sv-werder-bremen,Bremen,21,24,25
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,8,vfl-wolfsburg,Wolfsburg,20,22,19
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,9,borussia-moenchengladbach,M'gladbach,19,24,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,10,1899-hoffenheim,Hoffenheim,18,21,20
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,11,1-fsv-mainz-05,Mainz,18,18,23
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,12,1-fc-koeln,Köln,17,21,27
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,13,bayer-leverkusen,Leverkusen,15,23,26
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,14,fc-augsburg,Augsburg,15,18,25
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,15,vfb-stuttgart,Stuttgart,14,18,25
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,16,hertha-bsc,Hertha BSC,11,17,22
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,17,vfl-bochum,VfL Bochum,10,13,36
+fussballdaten,2023,bundesliga,2022/2023,Bundesliga,14,18,fc-schalke-04,Schalke,9,13,30
 fussballdaten,2017,bundesliga,2016/2017,Bundesliga,32,1,fc-bayern-muenchen,Bayern,76,80,17
 fussballdaten,2017,bundesliga,2016/2017,Bundesliga,32,2,rb-leipzig,RB Leipzig,66,60,32
 fussballdaten,2017,bundesliga,2016/2017,Bundesliga,32,3,borussia-dortmund,Dortmund,60,67,36
@@ -9205,6 +9891,24 @@ fussballdaten,2022,2liga,2021/2022,2. Bundesliga,25,15,hansa-rostock,Rostock,28,
 fussballdaten,2022,2liga,2021/2022,2. Bundesliga,25,16,dynamo-dresden,Dresden,26,24,34
 fussballdaten,2022,2liga,2021/2022,2. Bundesliga,25,17,fc-erzgebirge-aue,Aue,19,24,48
 fussballdaten,2022,2liga,2021/2022,2. Bundesliga,25,18,fc-ingolstadt-04,FC Ingolstadt,15,22,48
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,1,sv-darmstadt-98,Darmstadt,36,27,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,2,hamburger-sv,Hamburg,34,29,19
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,3,1-fc-heidenheim-1846,Heidenheim,33,33,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,4,1-fc-kaiserslautern,K'lautern,29,29,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,5,hannover-96,Hannover,28,25,18
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,6,sc-paderborn-07,Paderborn,26,35,22
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,7,fortuna-duesseldorf,Düsseldorf,26,26,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,8,holstein-kiel,Holstein Kiel,25,30,28
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,9,hansa-rostock,Rostock,21,17,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,10,spvgg-greuther-fuerth,Fürth,20,22,26
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,11,1-fc-nuernberg,Nürnberg,19,16,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,12,jahn-regensburg,Regensburg,19,20,30
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,13,karlsruher-sc,Karlsruhe,18,26,30
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,14,eintracht-braunschweig,Braunschweig,18,18,26
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,15,fc-st-pauli,St. Pauli,17,23,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,16,arminia-bielefeld,Bielefeld,17,23,28
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,17,1-fc-magdeburg,Magdeburg,17,20,33
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,18,18,sv-sandhausen,Sandhausen,16,21,29
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,9,1,hamburger-sv,Hamburg,21,14,5
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,9,2,sc-paderborn-07,Paderborn,19,25,10
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,9,3,sv-darmstadt-98,Darmstadt,18,17,10
@@ -9223,24 +9927,24 @@ fussballdaten,2023,2liga,2022/2023,2. Bundesliga,9,15,sv-sandhausen,Sandhausen,8
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,9,16,eintracht-braunschweig,Braunschweig,8,10,19
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,9,17,spvgg-greuther-fuerth,Fürth,7,12,17
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,9,18,1-fc-magdeburg,Magdeburg,7,12,22
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,1,hamburger-sv,Hamburg,24,16,6
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,2,sv-darmstadt-98,Darmstadt,21,19,11
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,3,sc-paderborn-07,Paderborn,19,26,12
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,4,fortuna-duesseldorf,Düsseldorf,17,20,13
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,5,1-fc-heidenheim-1846,Heidenheim,17,14,7
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,6,hannover-96,Hannover,17,18,14
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,7,1-fc-kaiserslautern,K'lautern,15,19,16
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,8,karlsruher-sc,Karlsruhe,14,18,14
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,9,holstein-kiel,Holstein Kiel,13,17,20
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,10,hansa-rostock,Rostock,13,10,14
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,11,fc-st-pauli,St. Pauli,11,14,15
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,12,jahn-regensburg,Regensburg,11,7,15
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,13,1-fc-magdeburg,Magdeburg,10,13,22
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,14,1-fc-nuernberg,Nürnberg,10,9,18
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,15,sv-sandhausen,Sandhausen,9,11,14
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,16,eintracht-braunschweig,Braunschweig,9,11,20
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,17,spvgg-greuther-fuerth,Fürth,8,13,18
-fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,18,arminia-bielefeld,Bielefeld,8,13,19
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,1,hamburger-sv,Hamburg,25,17,7
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,2,sv-darmstadt-98,Darmstadt,24,20,11
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,3,sc-paderborn-07,Paderborn,22,29,12
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,4,1-fc-heidenheim-1846,Heidenheim,20,16,8
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,5,fortuna-duesseldorf,Düsseldorf,17,20,14
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,6,karlsruher-sc,Karlsruhe,17,20,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,7,hannover-96,Hannover,17,19,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,8,1-fc-kaiserslautern,K'lautern,16,20,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,9,holstein-kiel,Holstein Kiel,16,20,22
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,10,hansa-rostock,Rostock,13,10,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,11,sv-sandhausen,Sandhausen,12,12,14
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,12,eintracht-braunschweig,Braunschweig,12,13,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,13,jahn-regensburg,Regensburg,12,9,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,14,fc-st-pauli,St. Pauli,11,15,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,15,1-fc-magdeburg,Magdeburg,10,13,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,16,1-fc-nuernberg,Nürnberg,10,11,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,17,spvgg-greuther-fuerth,Fürth,9,15,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,11,18,arminia-bielefeld,Bielefeld,8,14,21
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,7,1,sc-paderborn-07,Paderborn,16,21,8
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,7,2,hamburger-sv,Hamburg,15,9,3
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,7,3,1-fc-heidenheim-1846,Heidenheim,14,12,5
@@ -9259,6 +9963,24 @@ fussballdaten,2023,2liga,2022/2023,2. Bundesliga,7,15,arminia-bielefeld,Bielefel
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,7,16,spvgg-greuther-fuerth,Fürth,4,9,14
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,7,17,1-fc-magdeburg,Magdeburg,4,9,18
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,7,18,eintracht-braunschweig,Braunschweig,4,7,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,1,sv-darmstadt-98,Darmstadt,35,26,14
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,2,hamburger-sv,Hamburg,31,25,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,3,1-fc-heidenheim-1846,Heidenheim,30,28,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,4,hannover-96,Hannover,27,24,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,5,sc-paderborn-07,Paderborn,26,34,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,6,fortuna-duesseldorf,Düsseldorf,26,25,18
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,7,1-fc-kaiserslautern,K'lautern,26,27,22
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,8,holstein-kiel,Holstein Kiel,24,29,27
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,9,spvgg-greuther-fuerth,Fürth,19,21,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,10,jahn-regensburg,Regensburg,19,16,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,11,eintracht-braunschweig,Braunschweig,18,18,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,12,hansa-rostock,Rostock,18,16,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,13,karlsruher-sc,Karlsruhe,17,22,26
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,14,1-fc-magdeburg,Magdeburg,17,19,30
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,15,fc-st-pauli,St. Pauli,16,19,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,16,sv-sandhausen,Sandhausen,16,19,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,17,1-fc-nuernberg,Nürnberg,16,14,24
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,16,18,arminia-bielefeld,Bielefeld,14,20,27
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,6,1,sc-paderborn-07,Paderborn,13,20,8
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,6,2,sv-darmstadt-98,Darmstadt,13,11,6
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,6,3,hamburger-sv,Hamburg,12,8,3
@@ -9277,6 +9999,24 @@ fussballdaten,2023,2liga,2022/2023,2. Bundesliga,6,15,arminia-bielefeld,Bielefel
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,6,16,1-fc-magdeburg,Magdeburg,4,9,17
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,6,17,spvgg-greuther-fuerth,Fürth,3,7,12
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,6,18,eintracht-braunschweig,Braunschweig,1,3,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,1,sv-darmstadt-98,Darmstadt,36,27,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,2,hamburger-sv,Hamburg,34,29,19
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,3,1-fc-heidenheim-1846,Heidenheim,33,33,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,4,1-fc-kaiserslautern,K'lautern,29,29,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,5,hannover-96,Hannover,28,25,18
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,6,sc-paderborn-07,Paderborn,26,35,22
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,7,fortuna-duesseldorf,Düsseldorf,26,26,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,8,holstein-kiel,Holstein Kiel,25,30,28
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,9,hansa-rostock,Rostock,21,17,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,10,spvgg-greuther-fuerth,Fürth,20,22,26
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,11,1-fc-nuernberg,Nürnberg,19,16,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,12,jahn-regensburg,Regensburg,19,20,30
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,13,karlsruher-sc,Karlsruhe,18,26,30
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,14,eintracht-braunschweig,Braunschweig,18,18,26
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,15,fc-st-pauli,St. Pauli,17,23,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,16,arminia-bielefeld,Bielefeld,17,23,28
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,17,1-fc-magdeburg,Magdeburg,17,20,33
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,17,18,sv-sandhausen,Sandhausen,16,21,29
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,1,1,sc-paderborn-07,Paderborn,3,5,0
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,1,2,hamburger-sv,Hamburg,3,2,0
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,1,3,jahn-regensburg,Regensburg,3,2,0
@@ -9349,6 +10089,24 @@ fussballdaten,2023,2liga,2022/2023,2. Bundesliga,4,15,spvgg-greuther-fuerth,Für
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,4,16,1-fc-magdeburg,Magdeburg,3,5,9
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,4,17,arminia-bielefeld,Bielefeld,0,2,9
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,4,18,eintracht-braunschweig,Braunschweig,0,0,9
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,1,sv-darmstadt-98,Darmstadt,32,25,14
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,2,hamburger-sv,Hamburg,31,25,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,3,1-fc-heidenheim-1846,Heidenheim,27,24,13
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,4,sc-paderborn-07,Paderborn,26,34,18
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,5,fortuna-duesseldorf,Düsseldorf,26,25,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,6,hannover-96,Hannover,24,22,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,7,1-fc-kaiserslautern,K'lautern,23,25,22
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,8,holstein-kiel,Holstein Kiel,23,29,27
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,9,jahn-regensburg,Regensburg,18,15,24
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,10,karlsruher-sc,Karlsruhe,17,22,24
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,11,eintracht-braunschweig,Braunschweig,17,17,24
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,12,hansa-rostock,Rostock,17,15,22
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,13,1-fc-magdeburg,Magdeburg,17,19,29
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,14,spvgg-greuther-fuerth,Fürth,16,20,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,15,sv-sandhausen,Sandhausen,16,16,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,16,fc-st-pauli,St. Pauli,15,19,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,17,1-fc-nuernberg,Nürnberg,15,13,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,15,18,arminia-bielefeld,Bielefeld,11,18,27
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,3,1,jahn-regensburg,Regensburg,7,5,0
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,3,2,1-fc-kaiserslautern,K'lautern,7,6,4
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,3,3,sc-paderborn-07,Paderborn,6,10,4
@@ -9367,6 +10125,24 @@ fussballdaten,2023,2liga,2022/2023,2. Bundesliga,3,15,hannover-96,Hannover,1,5,8
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,3,16,karlsruher-sc,Karlsruhe,1,3,9
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,3,17,arminia-bielefeld,Bielefeld,0,2,7
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,3,18,eintracht-braunschweig,Braunschweig,0,0,6
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,1,sv-darmstadt-98,Darmstadt,27,22,12
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,2,sc-paderborn-07,Paderborn,25,32,12
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,3,hamburger-sv,Hamburg,25,17,10
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,4,1-fc-heidenheim-1846,Heidenheim,20,17,11
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,5,hannover-96,Hannover,20,21,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,6,holstein-kiel,Holstein Kiel,19,23,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,7,fortuna-duesseldorf,Düsseldorf,17,20,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,8,karlsruher-sc,Karlsruhe,17,21,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,9,1-fc-kaiserslautern,K'lautern,16,20,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,10,jahn-regensburg,Regensburg,15,12,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,11,eintracht-braunschweig,Braunschweig,15,15,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,12,fc-st-pauli,St. Pauli,14,18,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,13,hansa-rostock,Rostock,14,12,19
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,14,1-fc-nuernberg,Nürnberg,13,12,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,15,sv-sandhausen,Sandhausen,12,12,17
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,16,spvgg-greuther-fuerth,Fürth,10,17,22
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,17,1-fc-magdeburg,Magdeburg,10,13,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,12,18,arminia-bielefeld,Bielefeld,8,14,23
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,2,1,jahn-regensburg,Regensburg,6,5,0
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,2,2,1-fc-heidenheim-1846,Heidenheim,6,4,0
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,2,3,fortuna-duesseldorf,Düsseldorf,6,4,2
@@ -9385,6 +10161,24 @@ fussballdaten,2023,2liga,2022/2023,2. Bundesliga,2,15,spvgg-greuther-fuerth,Für
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,2,16,arminia-bielefeld,Bielefeld,0,1,5
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,2,17,eintracht-braunschweig,Braunschweig,0,0,5
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,2,18,karlsruher-sc,Karlsruhe,0,2,8
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,1,sv-darmstadt-98,Darmstadt,28,23,13
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,2,sc-paderborn-07,Paderborn,26,32,12
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,3,hamburger-sv,Hamburg,25,19,13
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,4,1-fc-heidenheim-1846,Heidenheim,23,20,12
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,5,hannover-96,Hannover,21,21,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,6,fortuna-duesseldorf,Düsseldorf,20,22,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,7,holstein-kiel,Holstein Kiel,20,24,24
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,8,1-fc-kaiserslautern,K'lautern,19,22,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,9,jahn-regensburg,Regensburg,18,14,18
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,10,karlsruher-sc,Karlsruhe,17,21,19
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,11,eintracht-braunschweig,Braunschweig,16,15,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,12,fc-st-pauli,St. Pauli,14,18,19
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,13,hansa-rostock,Rostock,14,12,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,14,1-fc-nuernberg,Nürnberg,14,12,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,15,1-fc-magdeburg,Magdeburg,13,16,27
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,16,sv-sandhausen,Sandhausen,12,13,19
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,17,arminia-bielefeld,Bielefeld,11,16,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,13,18,spvgg-greuther-fuerth,Fürth,10,18,25
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,5,1,sc-paderborn-07,Paderborn,12,18,6
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,5,2,sv-darmstadt-98,Darmstadt,12,9,4
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,5,3,1-fc-heidenheim-1846,Heidenheim,10,8,2
@@ -9403,6 +10197,24 @@ fussballdaten,2023,2liga,2022/2023,2. Bundesliga,5,15,spvgg-greuther-fuerth,Für
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,5,16,1-fc-magdeburg,Magdeburg,3,5,13
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,5,17,arminia-bielefeld,Bielefeld,1,3,10
 fussballdaten,2023,2liga,2022/2023,2. Bundesliga,5,18,eintracht-braunschweig,Braunschweig,1,2,11
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,1,sv-darmstadt-98,Darmstadt,29,24,14
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,2,hamburger-sv,Hamburg,28,22,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,3,sc-paderborn-07,Paderborn,26,34,15
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,4,1-fc-heidenheim-1846,Heidenheim,24,21,13
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,5,hannover-96,Hannover,24,22,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,6,fortuna-duesseldorf,Düsseldorf,23,24,16
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,7,1-fc-kaiserslautern,K'lautern,20,22,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,8,holstein-kiel,Holstein Kiel,20,25,26
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,9,jahn-regensburg,Regensburg,18,14,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,10,karlsruher-sc,Karlsruhe,17,21,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,11,eintracht-braunschweig,Braunschweig,17,17,23
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,12,hansa-rostock,Rostock,17,15,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,13,fc-st-pauli,St. Pauli,15,19,20
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,14,1-fc-nuernberg,Nürnberg,15,12,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,15,1-fc-magdeburg,Magdeburg,14,17,28
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,16,spvgg-greuther-fuerth,Fürth,13,19,25
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,17,sv-sandhausen,Sandhausen,13,15,21
+fussballdaten,2023,2liga,2022/2023,2. Bundesliga,14,18,arminia-bielefeld,Bielefeld,11,16,24
 fussballdaten,2017,2liga,2016/2017,2. Bundesliga,32,1,vfb-stuttgart,Stuttgart,66,59,35
 fussballdaten,2017,2liga,2016/2017,2. Bundesliga,32,2,eintracht-braunschweig,Braunschweig,63,48,29
 fussballdaten,2017,2liga,2016/2017,2. Bundesliga,32,3,hannover-96,Hannover,63,49,31
@@ -13223,6 +14035,46 @@ fussballdaten,2022,frankreich,2021/2022,Ligue 1,25,17,es-troyes-ac,Troyes,21,22,
 fussballdaten,2022,frankreich,2021/2022,Ligue 1,25,18,fc-lorient,Lorient,21,20,39
 fussballdaten,2022,frankreich,2021/2022,Ligue 1,25,19,fc-metz,Metz,21,25,45
 fussballdaten,2022,frankreich,2021/2022,Ligue 1,25,20,girondins-bordeaux,Bordeaux,21,37,62
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,1,paris-st-germain,PSG,47,48,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,2,rc-lens,Lens,44,32,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,3,olympique-marseille,Ol. Marseille,42,39,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,4,as-monaco,Monaco,37,42,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,5,stade-rennes,Rennes,37,36,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,6,osc-lille,Lille,34,35,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,7,fc-lorient,Lorient,32,31,29
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,8,clermont-foot,Clermont,28,24,27
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,9,olympique-lyon,Lyon,25,28,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,10,ogc-nizza,Nizza,25,22,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,11,stade-de-reims,Reims,25,21,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,12,fc-toulouse,Toulouse,23,29,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,13,fc-nantes,Nantes,21,21,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,14,es-troyes-ac,Troyes,18,30,40
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,15,hsc-montpellier,Montpellier,17,28,40
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,16,racing-strassburg,Straßburg,15,24,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,17,stade-brest,Brest,15,19,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,18,ajaccio-a-c-,Ajaccio,15,16,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,19,aj-auxerre,Auxerre,13,16,41
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,20,20,sco-angers,Angers,8,17,41
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,1,paris-st-germain,PSG,47,48,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,2,rc-lens,Lens,41,31,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,3,olympique-marseille,Ol. Marseille,39,36,15
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,4,stade-rennes,Rennes,34,35,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,5,as-monaco,Monaco,34,35,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,6,fc-lorient,Lorient,32,30,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,7,osc-lille,Lille,31,30,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,8,olympique-lyon,Lyon,25,27,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,9,clermont-foot,Clermont,25,22,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,10,ogc-nizza,Nizza,24,22,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,11,stade-de-reims,Reims,24,21,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,12,fc-toulouse,Toulouse,22,28,33
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,13,es-troyes-ac,Troyes,18,29,35
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,14,fc-nantes,Nantes,18,18,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,15,hsc-montpellier,Montpellier,17,28,37
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,16,ajaccio-a-c-,Ajaccio,15,15,27
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,17,stade-brest,Brest,14,18,33
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,18,aj-auxerre,Auxerre,13,16,40
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,19,racing-strassburg,Straßburg,12,22,33
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,18,20,sco-angers,Angers,8,16,39
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,9,1,paris-st-germain,PSG,25,28,5
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,9,2,olympique-marseille,Ol. Marseille,23,19,5
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,9,3,fc-lorient,Lorient,22,19,13
@@ -13243,6 +14095,26 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,9,17,stade-de-reims,Reims,7,12,1
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,9,18,stade-brest,Brest,6,9,19
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,9,19,racing-strassburg,Straßburg,5,7,12
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,9,20,ajaccio-a-c-,Ajaccio,4,5,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,1,paris-st-germain,PSG,29,29,5
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,2,fc-lorient,Lorient,26,21,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,3,rc-lens,Lens,24,18,8
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,4,olympique-marseille,Ol. Marseille,23,20,8
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,5,stade-rennes,Rennes,21,23,11
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,6,as-monaco,Monaco,21,20,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,7,osc-lille,Lille,19,21,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,8,clermont-foot,Clermont,17,15,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,9,fc-toulouse,Toulouse,15,17,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,10,olympique-lyon,Lyon,14,19,15
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,11,hsc-montpellier,Montpellier,12,21,22
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,12,es-troyes-ac,Troyes,12,19,22
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,13,ogc-nizza,Nizza,12,10,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,14,fc-nantes,Nantes,10,13,19
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,15,stade-de-reims,Reims,9,12,19
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,16,aj-auxerre,Auxerre,9,11,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,17,racing-strassburg,Straßburg,8,10,17
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,18,ajaccio-a-c-,Ajaccio,8,8,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,19,sco-angers,Angers,8,13,27
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,11,20,stade-brest,Brest,6,11,25
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,7,1,paris-st-germain,PSG,19,25,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,7,2,olympique-marseille,Ol. Marseille,19,15,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,7,3,rc-lens,Lens,17,16,7
@@ -13263,6 +14135,26 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,7,17,racing-strassburg,Straßbur
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,7,18,stade-brest,Brest,5,8,17
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,7,19,sco-angers,Angers,5,8,18
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,7,20,ajaccio-a-c-,Ajaccio,1,3,11
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,1,paris-st-germain,PSG,44,45,10
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,2,rc-lens,Lens,37,26,10
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,3,olympique-marseille,Ol. Marseille,33,32,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,4,stade-rennes,Rennes,31,32,17
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,5,as-monaco,Monaco,30,32,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,6,osc-lille,Lille,29,29,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,7,fc-lorient,Lorient,28,26,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,8,olympique-lyon,Lyon,24,27,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,9,ogc-nizza,Nizza,21,15,17
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,10,stade-de-reims,Reims,20,19,22
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,11,clermont-foot,Clermont,19,19,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,12,hsc-montpellier,Montpellier,17,26,29
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,13,fc-toulouse,Toulouse,16,21,33
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,14,es-troyes-ac,Troyes,15,26,31
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,15,ajaccio-a-c-,Ajaccio,15,15,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,16,fc-nantes,Nantes,14,17,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,17,stade-brest,Brest,13,18,32
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,18,aj-auxerre,Auxerre,13,16,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,19,racing-strassburg,Straßburg,11,18,28
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,16,20,sco-angers,Angers,8,15,35
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,6,1,paris-st-germain,PSG,16,24,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,6,2,olympique-marseille,Ol. Marseille,16,13,3
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,6,3,rc-lens,Lens,14,15,7
@@ -13283,6 +14175,26 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,6,17,stade-brest,Brest,5,8,16
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,6,18,racing-strassburg,Straßburg,4,5,7
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,6,19,sco-angers,Angers,2,6,17
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,6,20,ajaccio-a-c-,Ajaccio,1,3,10
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,1,paris-st-germain,PSG,44,46,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,2,rc-lens,Lens,40,29,11
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,3,olympique-marseille,Ol. Marseille,36,34,15
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,4,stade-rennes,Rennes,34,34,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,5,as-monaco,Monaco,33,33,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,6,fc-lorient,Lorient,31,28,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,7,osc-lille,Lille,30,30,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,8,olympique-lyon,Lyon,24,27,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,9,clermont-foot,Clermont,22,20,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,10,stade-de-reims,Reims,21,20,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,11,ogc-nizza,Nizza,21,16,19
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,12,fc-toulouse,Toulouse,19,23,33
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,13,es-troyes-ac,Troyes,18,29,33
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,14,hsc-montpellier,Montpellier,17,27,31
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,15,fc-nantes,Nantes,17,18,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,16,ajaccio-a-c-,Ajaccio,15,15,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,17,stade-brest,Brest,13,18,33
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,18,aj-auxerre,Auxerre,13,16,35
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,19,racing-strassburg,Straßburg,11,20,31
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,17,20,sco-angers,Angers,8,16,37
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,1,1,paris-st-germain,PSG,3,5,0
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,1,2,olympique-marseille,Ol. Marseille,3,4,1
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,1,3,osc-lille,Lille,3,4,1
@@ -13303,26 +14215,46 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,1,17,stade-rennes,Rennes,0,0,1
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,1,18,stade-de-reims,Reims,0,1,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,1,19,aj-auxerre,Auxerre,0,1,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,1,20,clermont-foot,Clermont,0,0,5
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,1,paris-st-germain,PSG,25,28,5
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,2,olympique-marseille,Ol. Marseille,23,19,5
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,3,fc-lorient,Lorient,22,19,13
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,4,rc-lens,Lens,21,17,7
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,5,as-monaco,Monaco,17,17,13
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,6,stade-rennes,Rennes,15,17,9
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,7,olympique-lyon,Lyon,13,16,11
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,8,osc-lille,Lille,13,17,18
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,9,clermont-foot,Clermont,13,12,14
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,10,hsc-montpellier,Montpellier,12,21,19
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,11,es-troyes-ac,Troyes,11,16,18
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,12,fc-toulouse,Toulouse,11,13,15
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,13,ogc-nizza,Nizza,8,6,11
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,14,aj-auxerre,Auxerre,8,9,20
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,15,sco-angers,Angers,8,9,21
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,16,fc-nantes,Nantes,7,9,15
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,17,stade-de-reims,Reims,7,12,19
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,18,stade-brest,Brest,6,9,19
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,19,racing-strassburg,Straßburg,5,7,12
-fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,20,ajaccio-a-c-,Ajaccio,4,5,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,1,paris-st-germain,PSG,26,28,5
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,2,fc-lorient,Lorient,25,21,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,3,olympique-marseille,Ol. Marseille,23,20,7
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,4,rc-lens,Lens,21,17,8
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,5,as-monaco,Monaco,20,19,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,6,stade-rennes,Rennes,18,20,9
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,7,osc-lille,Lille,16,18,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,8,clermont-foot,Clermont,16,14,15
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,9,olympique-lyon,Lyon,14,17,12
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,10,hsc-montpellier,Montpellier,12,21,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,11,fc-toulouse,Toulouse,12,14,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,12,es-troyes-ac,Troyes,11,18,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,13,ogc-nizza,Nizza,11,9,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,14,racing-strassburg,Straßburg,8,10,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,15,stade-de-reims,Reims,8,12,19
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,16,aj-auxerre,Auxerre,8,10,22
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,17,sco-angers,Angers,8,11,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,18,ajaccio-a-c-,Ajaccio,7,7,15
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,19,fc-nantes,Nantes,7,9,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,10,20,stade-brest,Brest,6,10,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,1,paris-st-germain,PSG,47,48,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,2,rc-lens,Lens,44,32,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,3,olympique-marseille,Ol. Marseille,42,39,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,4,as-monaco,Monaco,37,42,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,5,stade-rennes,Rennes,37,36,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,6,osc-lille,Lille,34,35,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,7,fc-lorient,Lorient,32,31,29
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,8,clermont-foot,Clermont,28,24,27
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,9,olympique-lyon,Lyon,25,28,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,10,ogc-nizza,Nizza,25,22,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,11,stade-de-reims,Reims,25,21,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,12,fc-toulouse,Toulouse,23,29,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,13,fc-nantes,Nantes,21,21,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,14,es-troyes-ac,Troyes,18,30,40
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,15,hsc-montpellier,Montpellier,17,28,40
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,16,racing-strassburg,Straßburg,15,24,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,17,stade-brest,Brest,15,19,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,18,ajaccio-a-c-,Ajaccio,15,16,34
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,19,aj-auxerre,Auxerre,13,16,41
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,19,20,sco-angers,Angers,8,17,41
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,8,1,paris-st-germain,PSG,22,26,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,8,2,olympique-marseille,Ol. Marseille,20,16,5
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,8,3,fc-lorient,Lorient,19,17,12
@@ -13363,6 +14295,26 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,4,17,sco-angers,Angers,2,4,8
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,4,18,ogc-nizza,Nizza,2,2,6
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,4,19,stade-de-reims,Reims,2,5,10
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,4,20,ajaccio-a-c-,Ajaccio,1,3,7
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,1,paris-st-germain,PSG,41,43,9
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,2,rc-lens,Lens,36,26,10
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,3,stade-rennes,Rennes,31,31,14
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,4,olympique-marseille,Ol. Marseille,30,26,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,5,fc-lorient,Lorient,28,26,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,6,as-monaco,Monaco,27,29,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,7,osc-lille,Lille,26,27,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,8,olympique-lyon,Lyon,21,23,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,9,ogc-nizza,Nizza,20,15,17
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,10,clermont-foot,Clermont,19,19,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,11,stade-de-reims,Reims,17,16,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,12,fc-toulouse,Toulouse,16,20,27
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,13,es-troyes-ac,Troyes,14,26,31
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,14,hsc-montpellier,Montpellier,14,24,29
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,15,fc-nantes,Nantes,13,17,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,16,stade-brest,Brest,13,16,28
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,17,aj-auxerre,Auxerre,13,14,31
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,18,ajaccio-a-c-,Ajaccio,12,14,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,19,racing-strassburg,Straßburg,11,17,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,15,20,sco-angers,Angers,8,15,34
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,3,1,paris-st-germain,PSG,9,17,3
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,3,2,rc-lens,Lens,7,7,3
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,3,3,olympique-marseille,Ol. Marseille,7,7,3
@@ -13383,6 +14335,26 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,3,17,sco-angers,Angers,2,3,5
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,3,18,ajaccio-a-c-,Ajaccio,1,2,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,3,19,stade-de-reims,Reims,1,4,9
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,3,20,es-troyes-ac,Troyes,0,3,10
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,1,paris-st-germain,PSG,32,32,5
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,2,rc-lens,Lens,27,19,8
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,3,fc-lorient,Lorient,27,23,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,4,stade-rennes,Rennes,24,25,12
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,5,olympique-marseille,Ol. Marseille,23,20,9
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,6,osc-lille,Lille,22,25,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,7,as-monaco,Monaco,21,23,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,8,olympique-lyon,Lyon,17,21,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,9,clermont-foot,Clermont,17,16,19
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,10,fc-toulouse,Toulouse,16,19,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,11,es-troyes-ac,Troyes,13,21,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,12,ogc-nizza,Nizza,13,11,15
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,13,hsc-montpellier,Montpellier,12,22,24
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,14,stade-de-reims,Reims,12,14,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,15,fc-nantes,Nantes,11,14,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,16,racing-strassburg,Straßburg,9,12,19
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,17,stade-brest,Brest,9,14,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,18,aj-auxerre,Auxerre,9,12,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,19,ajaccio-a-c-,Ajaccio,8,8,19
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,12,20,sco-angers,Angers,8,14,29
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,2,1,paris-st-germain,PSG,6,10,2
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,2,2,fc-lorient,Lorient,6,4,1
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,2,3,olympique-marseille,Ol. Marseille,4,5,2
@@ -13403,6 +14375,26 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,2,17,ajaccio-a-c-,Ajaccio,1,1,2
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,2,18,aj-auxerre,Auxerre,1,3,6
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,2,19,es-troyes-ac,Troyes,0,2,6
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,2,20,stade-de-reims,Reims,0,3,8
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,1,paris-st-germain,PSG,35,36,8
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,2,rc-lens,Lens,30,22,8
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,3,stade-rennes,Rennes,27,28,12
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,4,fc-lorient,Lorient,27,24,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,5,olympique-marseille,Ol. Marseille,24,22,11
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,6,as-monaco,Monaco,24,25,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,7,osc-lille,Lille,22,25,22
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,8,olympique-lyon,Lyon,20,22,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,9,clermont-foot,Clermont,18,17,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,10,ogc-nizza,Nizza,16,13,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,11,fc-toulouse,Toulouse,16,19,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,12,es-troyes-ac,Troyes,13,24,28
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,13,stade-de-reims,Reims,13,14,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,14,hsc-montpellier,Montpellier,12,22,27
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,15,fc-nantes,Nantes,12,15,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,16,aj-auxerre,Auxerre,12,13,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,17,racing-strassburg,Straßburg,10,14,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,18,stade-brest,Brest,10,14,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,19,ajaccio-a-c-,Ajaccio,8,8,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,13,20,sco-angers,Angers,8,14,31
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,5,1,paris-st-germain,PSG,13,21,4
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,5,2,rc-lens,Lens,13,14,6
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,5,3,olympique-marseille,Ol. Marseille,13,11,3
@@ -13423,6 +14415,26 @@ fussballdaten,2023,frankreich,2022/2023,Ligue 1,5,17,stade-brest,Brest,4,7,15
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,5,18,racing-strassburg,Straßburg,3,4,6
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,5,19,sco-angers,Angers,2,6,12
 fussballdaten,2023,frankreich,2022/2023,Ligue 1,5,20,ajaccio-a-c-,Ajaccio,1,3,9
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,1,paris-st-germain,PSG,38,38,9
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,2,rc-lens,Lens,33,24,9
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,3,stade-rennes,Rennes,28,29,13
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,4,olympique-marseille,Ol. Marseille,27,23,11
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,5,as-monaco,Monaco,27,27,18
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,6,fc-lorient,Lorient,27,25,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,7,osc-lille,Lille,23,26,23
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,8,olympique-lyon,Lyon,20,22,17
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,9,ogc-nizza,Nizza,19,14,16
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,10,clermont-foot,Clermont,19,18,21
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,11,stade-de-reims,Reims,16,15,20
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,12,fc-toulouse,Toulouse,16,19,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,13,es-troyes-ac,Troyes,14,25,29
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,14,hsc-montpellier,Montpellier,13,23,28
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,15,aj-auxerre,Auxerre,13,14,26
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,16,fc-nantes,Nantes,12,15,22
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,17,ajaccio-a-c-,Ajaccio,11,12,22
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,18,racing-strassburg,Straßburg,10,16,25
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,19,stade-brest,Brest,10,14,27
+fussballdaten,2023,frankreich,2022/2023,Ligue 1,14,20,sco-angers,Angers,8,15,33
 fussballdaten,2017,frankreich,2016/2017,Ligue 1,32,1,as-monaco,Monaco,77,90,26
 fussballdaten,2017,frankreich,2016/2017,Ligue 1,32,2,paris-st-germain,PSG,74,67,23
 fussballdaten,2017,frankreich,2016/2017,Ligue 1,32,3,ogc-nizza,Nizza,70,52,26
@@ -17783,6 +18795,66 @@ fussballdaten,2022,spanien,2021/2022,Primera División,25,17,fc-granada,Granada,
 fussballdaten,2022,spanien,2021/2022,Primera División,25,18,fc-cadiz,Cadiz,20,21,39
 fussballdaten,2022,spanien,2021/2022,Primera División,25,19,deportivo-alaves,Alavés,20,19,42
 fussballdaten,2022,spanien,2021/2022,Primera División,25,20,levante-ud,Levante,15,25,51
+fussballdaten,2023,spanien,2022/2023,Primera División,18,1,fc-barcelona,FC Barcelona,41,35,6
+fussballdaten,2023,spanien,2022/2023,Primera División,18,2,real-madrid,Real Madrid,38,36,16
+fussballdaten,2023,spanien,2022/2023,Primera División,18,3,real-sociedad-san-sebastian,Real Sociedad,35,26,18
+fussballdaten,2023,spanien,2022/2023,Primera División,18,4,atletico-madrid,Atl. Madrid,28,24,16
+fussballdaten,2023,spanien,2022/2023,Primera División,18,5,fc-villarreal,Villarreal,28,20,13
+fussballdaten,2023,spanien,2022/2023,Primera División,18,6,real-betis,Real Betis,28,19,13
+fussballdaten,2023,spanien,2022/2023,Primera División,18,7,ca-osasuna,Osasuna,27,17,16
+fussballdaten,2023,spanien,2022/2023,Primera División,18,8,athletic-bilbao,Ath. Bilbao,26,25,17
+fussballdaten,2023,spanien,2022/2023,Primera División,18,9,rayo-vallecano,Vallecano,26,24,20
+fussballdaten,2023,spanien,2022/2023,Primera División,18,10,rcd-mallorca,Mallorca,22,14,16
+fussballdaten,2023,spanien,2022/2023,Primera División,18,11,fc-girona,Girona,21,26,27
+fussballdaten,2023,spanien,2022/2023,Primera División,18,12,fc-valencia,Valencia,19,23,18
+fussballdaten,2023,spanien,2022/2023,Primera División,18,13,ud-almeria,Almeria,18,18,26
+fussballdaten,2023,spanien,2022/2023,Primera División,18,14,espanyol-barcelona,Espanyol,17,21,26
+fussballdaten,2023,spanien,2022/2023,Primera División,18,15,fc-getafe,Getafe,17,16,24
+fussballdaten,2023,spanien,2022/2023,Primera División,18,16,celta-vigo,Celta Vigo,17,17,28
+fussballdaten,2023,spanien,2022/2023,Primera División,18,17,real-valladolid,Valladolid,17,13,25
+fussballdaten,2023,spanien,2022/2023,Primera División,18,18,fc-cadiz,Cadiz,16,12,28
+fussballdaten,2023,spanien,2022/2023,Primera División,18,19,fc-sevilla,Sevilla,15,17,26
+fussballdaten,2023,spanien,2022/2023,Primera División,18,20,fc-elche,Elche,5,11,35
+fussballdaten,2023,spanien,2022/2023,Primera División,9,1,real-madrid,Real Madrid,25,22,8
+fussballdaten,2023,spanien,2022/2023,Primera División,9,2,fc-barcelona,FC Barcelona,22,21,4
+fussballdaten,2023,spanien,2022/2023,Primera División,9,3,atletico-madrid,Atl. Madrid,19,15,7
+fussballdaten,2023,spanien,2022/2023,Primera División,9,4,real-betis,Real Betis,19,13,6
+fussballdaten,2023,spanien,2022/2023,Primera División,9,5,real-sociedad-san-sebastian,Real Sociedad,19,15,12
+fussballdaten,2023,spanien,2022/2023,Primera División,9,6,athletic-bilbao,Ath. Bilbao,17,17,6
+fussballdaten,2023,spanien,2022/2023,Primera División,9,7,fc-villarreal,Villarreal,15,12,3
+fussballdaten,2023,spanien,2022/2023,Primera División,9,8,fc-valencia,Valencia,14,16,10
+fussballdaten,2023,spanien,2022/2023,Primera División,9,9,ca-osasuna,Osasuna,13,9,10
+fussballdaten,2023,spanien,2022/2023,Primera División,9,10,rayo-vallecano,Vallecano,11,10,12
+fussballdaten,2023,spanien,2022/2023,Primera División,9,11,celta-vigo,Celta Vigo,10,10,16
+fussballdaten,2023,spanien,2022/2023,Primera División,9,12,rcd-mallorca,Mallorca,9,7,10
+fussballdaten,2023,spanien,2022/2023,Primera División,9,13,espanyol-barcelona,Espanyol,9,12,16
+fussballdaten,2023,spanien,2022/2023,Primera División,9,14,fc-sevilla,Sevilla,9,9,14
+fussballdaten,2023,spanien,2022/2023,Primera División,9,15,fc-girona,Girona,8,12,15
+fussballdaten,2023,spanien,2022/2023,Primera División,9,16,fc-getafe,Getafe,8,8,16
+fussballdaten,2023,spanien,2022/2023,Primera División,9,17,real-valladolid,Valladolid,8,6,14
+fussballdaten,2023,spanien,2022/2023,Primera División,9,18,ud-almeria,Almeria,7,8,15
+fussballdaten,2023,spanien,2022/2023,Primera División,9,19,fc-cadiz,Cadiz,6,4,17
+fussballdaten,2023,spanien,2022/2023,Primera División,9,20,fc-elche,Elche,3,6,21
+fussballdaten,2023,spanien,2022/2023,Primera División,11,1,real-madrid,Real Madrid,31,28,9
+fussballdaten,2023,spanien,2022/2023,Primera División,11,2,fc-barcelona,FC Barcelona,28,28,4
+fussballdaten,2023,spanien,2022/2023,Primera División,11,3,atletico-madrid,Atl. Madrid,23,18,9
+fussballdaten,2023,spanien,2022/2023,Primera División,11,4,real-sociedad-san-sebastian,Real Sociedad,22,16,13
+fussballdaten,2023,spanien,2022/2023,Primera División,11,5,real-betis,Real Betis,20,14,8
+fussballdaten,2023,spanien,2022/2023,Primera División,11,6,athletic-bilbao,Ath. Bilbao,18,19,12
+fussballdaten,2023,spanien,2022/2023,Primera División,11,7,fc-villarreal,Villarreal,18,14,7
+fussballdaten,2023,spanien,2022/2023,Primera División,11,8,ca-osasuna,Osasuna,17,11,11
+fussballdaten,2023,spanien,2022/2023,Primera División,11,9,fc-valencia,Valencia,15,18,13
+fussballdaten,2023,spanien,2022/2023,Primera División,11,10,rayo-vallecano,Vallecano,15,16,14
+fussballdaten,2023,spanien,2022/2023,Primera División,11,11,real-valladolid,Valladolid,14,11,15
+fussballdaten,2023,spanien,2022/2023,Primera División,11,12,rcd-mallorca,Mallorca,12,9,12
+fussballdaten,2023,spanien,2022/2023,Primera División,11,13,celta-vigo,Celta Vigo,11,12,21
+fussballdaten,2023,spanien,2022/2023,Primera División,11,14,espanyol-barcelona,Espanyol,10,14,19
+fussballdaten,2023,spanien,2022/2023,Primera División,11,15,ud-almeria,Almeria,10,12,19
+fussballdaten,2023,spanien,2022/2023,Primera División,11,16,fc-sevilla,Sevilla,10,11,18
+fussballdaten,2023,spanien,2022/2023,Primera División,11,17,fc-getafe,Getafe,10,11,19
+fussballdaten,2023,spanien,2022/2023,Primera División,11,18,fc-girona,Girona,9,15,19
+fussballdaten,2023,spanien,2022/2023,Primera División,11,19,fc-cadiz,Cadiz,7,5,22
+fussballdaten,2023,spanien,2022/2023,Primera División,11,20,fc-elche,Elche,4,8,26
 fussballdaten,2023,spanien,2022/2023,Primera División,7,1,fc-barcelona,FC Barcelona,19,19,1
 fussballdaten,2023,spanien,2022/2023,Primera División,7,2,real-madrid,Real Madrid,19,18,7
 fussballdaten,2023,spanien,2022/2023,Primera División,7,3,athletic-bilbao,Ath. Bilbao,16,16,4
@@ -17803,6 +18875,26 @@ fussballdaten,2023,spanien,2022/2023,Primera División,7,17,fc-sevilla,Sevilla,5
 fussballdaten,2023,spanien,2022/2023,Primera División,7,18,ud-almeria,Almeria,4,4,11
 fussballdaten,2023,spanien,2022/2023,Primera División,7,19,fc-cadiz,Cadiz,4,1,14
 fussballdaten,2023,spanien,2022/2023,Primera División,7,20,fc-elche,Elche,1,3,18
+fussballdaten,2023,spanien,2022/2023,Primera División,16,1,fc-barcelona,FC Barcelona,41,35,6
+fussballdaten,2023,spanien,2022/2023,Primera División,16,2,real-madrid,Real Madrid,38,36,16
+fussballdaten,2023,spanien,2022/2023,Primera División,16,3,real-sociedad-san-sebastian,Real Sociedad,32,23,17
+fussballdaten,2023,spanien,2022/2023,Primera División,16,4,real-betis,Real Betis,28,19,13
+fussballdaten,2023,spanien,2022/2023,Primera División,16,5,atletico-madrid,Atl. Madrid,27,23,15
+fussballdaten,2023,spanien,2022/2023,Primera División,16,6,fc-villarreal,Villarreal,27,19,12
+fussballdaten,2023,spanien,2022/2023,Primera División,16,7,athletic-bilbao,Ath. Bilbao,26,24,14
+fussballdaten,2023,spanien,2022/2023,Primera División,16,8,ca-osasuna,Osasuna,24,16,16
+fussballdaten,2023,spanien,2022/2023,Primera División,16,9,rayo-vallecano,Vallecano,23,23,20
+fussballdaten,2023,spanien,2022/2023,Primera División,16,10,rcd-mallorca,Mallorca,22,14,15
+fussballdaten,2023,spanien,2022/2023,Primera División,16,11,fc-valencia,Valencia,19,23,18
+fussballdaten,2023,spanien,2022/2023,Primera División,16,12,fc-girona,Girona,18,24,26
+fussballdaten,2023,spanien,2022/2023,Primera División,16,13,fc-getafe,Getafe,17,15,22
+fussballdaten,2023,spanien,2022/2023,Primera División,16,14,ud-almeria,Almeria,17,17,25
+fussballdaten,2023,spanien,2022/2023,Primera División,16,15,real-valladolid,Valladolid,17,13,24
+fussballdaten,2023,spanien,2022/2023,Primera División,16,16,celta-vigo,Celta Vigo,16,16,27
+fussballdaten,2023,spanien,2022/2023,Primera División,16,17,fc-sevilla,Sevilla,15,16,24
+fussballdaten,2023,spanien,2022/2023,Primera División,16,18,fc-cadiz,Cadiz,15,11,27
+fussballdaten,2023,spanien,2022/2023,Primera División,16,19,espanyol-barcelona,Espanyol,14,19,25
+fussballdaten,2023,spanien,2022/2023,Primera División,16,20,fc-elche,Elche,4,10,34
 fussballdaten,2023,spanien,2022/2023,Primera División,6,1,real-madrid,Real Madrid,18,17,6
 fussballdaten,2023,spanien,2022/2023,Primera División,6,2,fc-barcelona,FC Barcelona,16,18,1
 fussballdaten,2023,spanien,2022/2023,Primera División,6,3,real-betis,Real Betis,15,10,4
@@ -17823,6 +18915,26 @@ fussballdaten,2023,spanien,2022/2023,Primera División,6,17,espanyol-barcelona,E
 fussballdaten,2023,spanien,2022/2023,Primera División,6,18,real-valladolid,Valladolid,4,3,11
 fussballdaten,2023,spanien,2022/2023,Primera División,6,19,fc-cadiz,Cadiz,3,1,14
 fussballdaten,2023,spanien,2022/2023,Primera División,6,20,fc-elche,Elche,1,2,16
+fussballdaten,2023,spanien,2022/2023,Primera División,17,1,fc-barcelona,FC Barcelona,41,35,6
+fussballdaten,2023,spanien,2022/2023,Primera División,17,2,real-madrid,Real Madrid,38,36,16
+fussballdaten,2023,spanien,2022/2023,Primera División,17,3,real-sociedad-san-sebastian,Real Sociedad,35,26,18
+fussballdaten,2023,spanien,2022/2023,Primera División,17,4,atletico-madrid,Atl. Madrid,28,24,16
+fussballdaten,2023,spanien,2022/2023,Primera División,17,5,fc-villarreal,Villarreal,28,20,13
+fussballdaten,2023,spanien,2022/2023,Primera División,17,6,real-betis,Real Betis,28,19,13
+fussballdaten,2023,spanien,2022/2023,Primera División,17,7,ca-osasuna,Osasuna,27,17,16
+fussballdaten,2023,spanien,2022/2023,Primera División,17,8,athletic-bilbao,Ath. Bilbao,26,25,17
+fussballdaten,2023,spanien,2022/2023,Primera División,17,9,rayo-vallecano,Vallecano,26,24,20
+fussballdaten,2023,spanien,2022/2023,Primera División,17,10,rcd-mallorca,Mallorca,22,14,16
+fussballdaten,2023,spanien,2022/2023,Primera División,17,11,fc-girona,Girona,21,26,27
+fussballdaten,2023,spanien,2022/2023,Primera División,17,12,fc-valencia,Valencia,19,23,18
+fussballdaten,2023,spanien,2022/2023,Primera División,17,13,ud-almeria,Almeria,18,18,26
+fussballdaten,2023,spanien,2022/2023,Primera División,17,14,espanyol-barcelona,Espanyol,17,21,26
+fussballdaten,2023,spanien,2022/2023,Primera División,17,15,fc-getafe,Getafe,17,16,24
+fussballdaten,2023,spanien,2022/2023,Primera División,17,16,celta-vigo,Celta Vigo,17,17,28
+fussballdaten,2023,spanien,2022/2023,Primera División,17,17,real-valladolid,Valladolid,17,13,25
+fussballdaten,2023,spanien,2022/2023,Primera División,17,18,fc-cadiz,Cadiz,16,12,28
+fussballdaten,2023,spanien,2022/2023,Primera División,17,19,fc-sevilla,Sevilla,15,17,26
+fussballdaten,2023,spanien,2022/2023,Primera División,17,20,fc-elche,Elche,5,11,35
 fussballdaten,2023,spanien,2022/2023,Primera División,1,1,atletico-madrid,Atl. Madrid,3,3,0
 fussballdaten,2023,spanien,2022/2023,Primera División,1,2,fc-villarreal,Villarreal,3,3,0
 fussballdaten,2023,spanien,2022/2023,Primera División,1,3,real-betis,Real Betis,3,3,0
@@ -17843,26 +18955,46 @@ fussballdaten,2023,spanien,2022/2023,Primera División,1,17,fc-girona,Girona,0,0
 fussballdaten,2023,spanien,2022/2023,Primera División,1,18,real-valladolid,Valladolid,0,0,3
 fussballdaten,2023,spanien,2022/2023,Primera División,1,19,fc-getafe,Getafe,0,0,3
 fussballdaten,2023,spanien,2022/2023,Primera División,1,20,fc-elche,Elche,0,0,3
-fussballdaten,2023,spanien,2022/2023,Primera División,8,1,fc-barcelona,FC Barcelona,19,19,1
-fussballdaten,2023,spanien,2022/2023,Primera División,8,2,real-madrid,Real Madrid,19,18,7
-fussballdaten,2023,spanien,2022/2023,Primera División,8,3,athletic-bilbao,Ath. Bilbao,16,16,4
-fussballdaten,2023,spanien,2022/2023,Primera División,8,4,real-betis,Real Betis,15,10,5
-fussballdaten,2023,spanien,2022/2023,Primera División,8,5,atletico-madrid,Atl. Madrid,13,12,6
-fussballdaten,2023,spanien,2022/2023,Primera División,8,6,ca-osasuna,Osasuna,13,8,6
-fussballdaten,2023,spanien,2022/2023,Primera División,8,7,real-sociedad-san-sebastian,Real Sociedad,13,12,11
-fussballdaten,2023,spanien,2022/2023,Primera División,8,8,fc-villarreal,Villarreal,12,10,2
-fussballdaten,2023,spanien,2022/2023,Primera División,8,9,fc-valencia,Valencia,10,12,7
-fussballdaten,2023,spanien,2022/2023,Primera División,8,10,rayo-vallecano,Vallecano,10,9,9
-fussballdaten,2023,spanien,2022/2023,Primera División,8,11,celta-vigo,Celta Vigo,10,9,13
-fussballdaten,2023,spanien,2022/2023,Primera División,8,12,rcd-mallorca,Mallorca,8,6,8
-fussballdaten,2023,spanien,2022/2023,Primera División,8,13,fc-girona,Girona,7,10,12
-fussballdaten,2023,spanien,2022/2023,Primera División,8,14,fc-getafe,Getafe,7,8,15
-fussballdaten,2023,spanien,2022/2023,Primera División,8,15,real-valladolid,Valladolid,7,6,13
-fussballdaten,2023,spanien,2022/2023,Primera División,8,16,espanyol-barcelona,Espanyol,5,9,14
-fussballdaten,2023,spanien,2022/2023,Primera División,8,17,fc-sevilla,Sevilla,5,7,13
-fussballdaten,2023,spanien,2022/2023,Primera División,8,18,ud-almeria,Almeria,4,4,11
-fussballdaten,2023,spanien,2022/2023,Primera División,8,19,fc-cadiz,Cadiz,4,1,14
-fussballdaten,2023,spanien,2022/2023,Primera División,8,20,fc-elche,Elche,1,3,18
+fussballdaten,2023,spanien,2022/2023,Primera División,10,1,real-madrid,Real Madrid,28,25,8
+fussballdaten,2023,spanien,2022/2023,Primera División,10,2,fc-barcelona,FC Barcelona,25,24,4
+fussballdaten,2023,spanien,2022/2023,Primera División,10,3,real-sociedad-san-sebastian,Real Sociedad,22,16,12
+fussballdaten,2023,spanien,2022/2023,Primera División,10,4,atletico-madrid,Atl. Madrid,20,16,8
+fussballdaten,2023,spanien,2022/2023,Primera División,10,5,real-betis,Real Betis,20,13,6
+fussballdaten,2023,spanien,2022/2023,Primera División,10,6,athletic-bilbao,Ath. Bilbao,18,19,8
+fussballdaten,2023,spanien,2022/2023,Primera División,10,7,ca-osasuna,Osasuna,16,10,10
+fussballdaten,2023,spanien,2022/2023,Primera División,10,8,fc-valencia,Valencia,15,17,11
+fussballdaten,2023,spanien,2022/2023,Primera División,10,9,fc-villarreal,Villarreal,15,12,6
+fussballdaten,2023,spanien,2022/2023,Primera División,10,10,rayo-vallecano,Vallecano,12,11,13
+fussballdaten,2023,spanien,2022/2023,Primera División,10,11,real-valladolid,Valladolid,11,10,15
+fussballdaten,2023,spanien,2022/2023,Primera División,10,12,fc-sevilla,Sevilla,10,10,15
+fussballdaten,2023,spanien,2022/2023,Primera División,10,13,ud-almeria,Almeria,10,11,17
+fussballdaten,2023,spanien,2022/2023,Primera División,10,14,celta-vigo,Celta Vigo,10,11,20
+fussballdaten,2023,spanien,2022/2023,Primera División,10,15,rcd-mallorca,Mallorca,9,7,11
+fussballdaten,2023,spanien,2022/2023,Primera División,10,16,espanyol-barcelona,Espanyol,9,12,17
+fussballdaten,2023,spanien,2022/2023,Primera División,10,17,fc-getafe,Getafe,9,10,18
+fussballdaten,2023,spanien,2022/2023,Primera División,10,18,fc-girona,Girona,8,14,18
+fussballdaten,2023,spanien,2022/2023,Primera División,10,19,fc-cadiz,Cadiz,7,4,17
+fussballdaten,2023,spanien,2022/2023,Primera División,10,20,fc-elche,Elche,3,6,24
+fussballdaten,2023,spanien,2022/2023,Primera División,8,1,fc-barcelona,FC Barcelona,22,20,1
+fussballdaten,2023,spanien,2022/2023,Primera División,8,2,real-madrid,Real Madrid,22,19,7
+fussballdaten,2023,spanien,2022/2023,Primera División,8,3,athletic-bilbao,Ath. Bilbao,17,17,5
+fussballdaten,2023,spanien,2022/2023,Primera División,8,4,atletico-madrid,Atl. Madrid,16,14,7
+fussballdaten,2023,spanien,2022/2023,Primera División,8,5,real-betis,Real Betis,16,10,5
+fussballdaten,2023,spanien,2022/2023,Primera División,8,6,real-sociedad-san-sebastian,Real Sociedad,16,13,11
+fussballdaten,2023,spanien,2022/2023,Primera División,8,7,fc-valencia,Valencia,13,14,8
+fussballdaten,2023,spanien,2022/2023,Primera División,8,8,ca-osasuna,Osasuna,13,9,8
+fussballdaten,2023,spanien,2022/2023,Primera División,8,9,fc-villarreal,Villarreal,12,10,3
+fussballdaten,2023,spanien,2022/2023,Primera División,8,10,rayo-vallecano,Vallecano,10,10,12
+fussballdaten,2023,spanien,2022/2023,Primera División,8,11,celta-vigo,Celta Vigo,10,9,14
+fussballdaten,2023,spanien,2022/2023,Primera División,8,12,rcd-mallorca,Mallorca,9,7,9
+fussballdaten,2023,spanien,2022/2023,Primera División,8,13,real-valladolid,Valladolid,8,6,13
+fussballdaten,2023,spanien,2022/2023,Primera División,8,14,fc-girona,Girona,7,11,14
+fussballdaten,2023,spanien,2022/2023,Primera División,8,15,ud-almeria,Almeria,7,7,12
+fussballdaten,2023,spanien,2022/2023,Primera División,8,16,fc-getafe,Getafe,7,8,16
+fussballdaten,2023,spanien,2022/2023,Primera División,8,17,espanyol-barcelona,Espanyol,6,11,16
+fussballdaten,2023,spanien,2022/2023,Primera División,8,18,fc-sevilla,Sevilla,6,8,14
+fussballdaten,2023,spanien,2022/2023,Primera División,8,19,fc-cadiz,Cadiz,5,3,16
+fussballdaten,2023,spanien,2022/2023,Primera División,8,20,fc-elche,Elche,2,4,19
 fussballdaten,2023,spanien,2022/2023,Primera División,4,1,real-madrid,Real Madrid,12,11,4
 fussballdaten,2023,spanien,2022/2023,Primera División,4,2,fc-barcelona,FC Barcelona,10,11,1
 fussballdaten,2023,spanien,2022/2023,Primera División,4,3,fc-villarreal,Villarreal,10,9,0
@@ -17883,6 +19015,26 @@ fussballdaten,2023,spanien,2022/2023,Primera División,4,17,fc-sevilla,Sevilla,1
 fussballdaten,2023,spanien,2022/2023,Primera División,4,18,fc-elche,Elche,1,1,9
 fussballdaten,2023,spanien,2022/2023,Primera División,4,19,fc-getafe,Getafe,1,2,11
 fussballdaten,2023,spanien,2022/2023,Primera División,4,20,fc-cadiz,Cadiz,0,0,10
+fussballdaten,2023,spanien,2022/2023,Primera División,15,1,fc-barcelona,FC Barcelona,38,34,6
+fussballdaten,2023,spanien,2022/2023,Primera División,15,2,real-madrid,Real Madrid,38,35,14
+fussballdaten,2023,spanien,2022/2023,Primera División,15,3,real-sociedad-san-sebastian,Real Sociedad,29,21,17
+fussballdaten,2023,spanien,2022/2023,Primera División,15,4,atletico-madrid,Atl. Madrid,27,23,14
+fussballdaten,2023,spanien,2022/2023,Primera División,15,5,athletic-bilbao,Ath. Bilbao,25,24,14
+fussballdaten,2023,spanien,2022/2023,Primera División,15,6,real-betis,Real Betis,25,17,12
+fussballdaten,2023,spanien,2022/2023,Primera División,15,7,fc-villarreal,Villarreal,24,17,11
+fussballdaten,2023,spanien,2022/2023,Primera División,15,8,rayo-vallecano,Vallecano,23,22,18
+fussballdaten,2023,spanien,2022/2023,Primera División,15,9,ca-osasuna,Osasuna,23,16,16
+fussballdaten,2023,spanien,2022/2023,Primera División,15,10,fc-valencia,Valencia,19,23,17
+fussballdaten,2023,spanien,2022/2023,Primera División,15,11,rcd-mallorca,Mallorca,19,13,15
+fussballdaten,2023,spanien,2022/2023,Primera División,15,12,fc-girona,Girona,17,22,24
+fussballdaten,2023,spanien,2022/2023,Primera División,15,13,ud-almeria,Almeria,17,17,23
+fussballdaten,2023,spanien,2022/2023,Primera División,15,14,fc-getafe,Getafe,17,14,20
+fussballdaten,2023,spanien,2022/2023,Primera División,15,15,real-valladolid,Valladolid,17,13,23
+fussballdaten,2023,spanien,2022/2023,Primera División,15,16,espanyol-barcelona,Espanyol,13,17,23
+fussballdaten,2023,spanien,2022/2023,Primera División,15,17,celta-vigo,Celta Vigo,13,15,27
+fussballdaten,2023,spanien,2022/2023,Primera División,15,18,fc-sevilla,Sevilla,12,14,23
+fussballdaten,2023,spanien,2022/2023,Primera División,15,19,fc-cadiz,Cadiz,12,10,27
+fussballdaten,2023,spanien,2022/2023,Primera División,15,20,fc-elche,Elche,4,10,33
 fussballdaten,2023,spanien,2022/2023,Primera División,3,1,real-madrid,Real Madrid,9,9,3
 fussballdaten,2023,spanien,2022/2023,Primera División,3,2,real-betis,Real Betis,9,6,1
 fussballdaten,2023,spanien,2022/2023,Primera División,3,3,fc-barcelona,FC Barcelona,7,8,1
@@ -17903,6 +19055,26 @@ fussballdaten,2023,spanien,2022/2023,Primera División,3,17,fc-elche,Elche,1,1,5
 fussballdaten,2023,spanien,2022/2023,Primera División,3,18,fc-getafe,Getafe,1,1,6
 fussballdaten,2023,spanien,2022/2023,Primera División,3,19,real-valladolid,Valladolid,1,1,8
 fussballdaten,2023,spanien,2022/2023,Primera División,3,20,fc-cadiz,Cadiz,0,0,7
+fussballdaten,2023,spanien,2022/2023,Primera División,12,1,real-madrid,Real Madrid,32,29,10
+fussballdaten,2023,spanien,2022/2023,Primera División,12,2,fc-barcelona,FC Barcelona,31,29,4
+fussballdaten,2023,spanien,2022/2023,Primera División,12,3,atletico-madrid,Atl. Madrid,23,20,12
+fussballdaten,2023,spanien,2022/2023,Primera División,12,4,real-betis,Real Betis,23,16,8
+fussballdaten,2023,spanien,2022/2023,Primera División,12,5,real-sociedad-san-sebastian,Real Sociedad,22,16,15
+fussballdaten,2023,spanien,2022/2023,Primera División,12,6,athletic-bilbao,Ath. Bilbao,21,20,12
+fussballdaten,2023,spanien,2022/2023,Primera División,12,7,ca-osasuna,Osasuna,20,13,11
+fussballdaten,2023,spanien,2022/2023,Primera División,12,8,fc-villarreal,Villarreal,18,14,8
+fussballdaten,2023,spanien,2022/2023,Primera División,12,9,rayo-vallecano,Vallecano,18,17,14
+fussballdaten,2023,spanien,2022/2023,Primera División,12,10,fc-valencia,Valencia,15,18,14
+fussballdaten,2023,spanien,2022/2023,Primera División,12,11,real-valladolid,Valladolid,14,11,17
+fussballdaten,2023,spanien,2022/2023,Primera División,12,12,rcd-mallorca,Mallorca,13,10,13
+fussballdaten,2023,spanien,2022/2023,Primera División,12,13,ud-almeria,Almeria,13,15,20
+fussballdaten,2023,spanien,2022/2023,Primera División,12,14,fc-getafe,Getafe,13,12,19
+fussballdaten,2023,spanien,2022/2023,Primera División,12,15,espanyol-barcelona,Espanyol,11,15,20
+fussballdaten,2023,spanien,2022/2023,Primera División,12,16,celta-vigo,Celta Vigo,11,13,24
+fussballdaten,2023,spanien,2022/2023,Primera División,12,17,fc-girona,Girona,10,16,20
+fussballdaten,2023,spanien,2022/2023,Primera División,12,18,fc-sevilla,Sevilla,10,11,19
+fussballdaten,2023,spanien,2022/2023,Primera División,12,19,fc-cadiz,Cadiz,10,8,24
+fussballdaten,2023,spanien,2022/2023,Primera División,12,20,fc-elche,Elche,4,8,27
 fussballdaten,2023,spanien,2022/2023,Primera División,2,1,fc-villarreal,Villarreal,6,5,0
 fussballdaten,2023,spanien,2022/2023,Primera División,2,2,real-madrid,Real Madrid,6,6,2
 fussballdaten,2023,spanien,2022/2023,Primera División,2,3,real-betis,Real Betis,6,5,1
@@ -17923,6 +19095,26 @@ fussballdaten,2023,spanien,2022/2023,Primera División,2,17,real-valladolid,Vall
 fussballdaten,2023,spanien,2022/2023,Primera División,2,18,fc-elche,Elche,1,1,4
 fussballdaten,2023,spanien,2022/2023,Primera División,2,19,fc-cadiz,Cadiz,0,0,3
 fussballdaten,2023,spanien,2022/2023,Primera División,2,20,fc-getafe,Getafe,0,1,6
+fussballdaten,2023,spanien,2022/2023,Primera División,13,1,fc-barcelona,FC Barcelona,34,31,4
+fussballdaten,2023,spanien,2022/2023,Primera División,13,2,real-madrid,Real Madrid,32,31,13
+fussballdaten,2023,spanien,2022/2023,Primera División,13,3,atletico-madrid,Atl. Madrid,24,21,13
+fussballdaten,2023,spanien,2022/2023,Primera División,13,4,real-betis,Real Betis,24,17,9
+fussballdaten,2023,spanien,2022/2023,Primera División,13,5,ca-osasuna,Osasuna,23,15,12
+fussballdaten,2023,spanien,2022/2023,Primera División,13,6,real-sociedad-san-sebastian,Real Sociedad,23,17,16
+fussballdaten,2023,spanien,2022/2023,Primera División,13,7,athletic-bilbao,Ath. Bilbao,21,21,14
+fussballdaten,2023,spanien,2022/2023,Primera División,13,8,rayo-vallecano,Vallecano,21,20,16
+fussballdaten,2023,spanien,2022/2023,Primera División,13,9,fc-villarreal,Villarreal,18,14,10
+fussballdaten,2023,spanien,2022/2023,Primera División,13,10,real-valladolid,Valladolid,17,13,18
+fussballdaten,2023,spanien,2022/2023,Primera División,13,11,fc-valencia,Valencia,16,19,15
+fussballdaten,2023,spanien,2022/2023,Primera División,13,12,rcd-mallorca,Mallorca,16,12,13
+fussballdaten,2023,spanien,2022/2023,Primera División,13,13,fc-getafe,Getafe,14,12,19
+fussballdaten,2023,spanien,2022/2023,Primera División,13,14,fc-girona,Girona,13,18,21
+fussballdaten,2023,spanien,2022/2023,Primera División,13,15,ud-almeria,Almeria,13,15,22
+fussballdaten,2023,spanien,2022/2023,Primera División,13,16,espanyol-barcelona,Espanyol,12,16,21
+fussballdaten,2023,spanien,2022/2023,Primera División,13,17,fc-sevilla,Sevilla,11,12,20
+fussballdaten,2023,spanien,2022/2023,Primera División,13,18,celta-vigo,Celta Vigo,11,14,26
+fussballdaten,2023,spanien,2022/2023,Primera División,13,19,fc-cadiz,Cadiz,11,8,24
+fussballdaten,2023,spanien,2022/2023,Primera División,13,20,fc-elche,Elche,4,9,29
 fussballdaten,2023,spanien,2022/2023,Primera División,5,1,real-madrid,Real Madrid,15,15,5
 fussballdaten,2023,spanien,2022/2023,Primera División,5,2,fc-barcelona,FC Barcelona,13,15,1
 fussballdaten,2023,spanien,2022/2023,Primera División,5,3,real-betis,Real Betis,12,8,3
@@ -17943,6 +19135,26 @@ fussballdaten,2023,spanien,2022/2023,Primera División,5,17,real-valladolid,Vall
 fussballdaten,2023,spanien,2022/2023,Primera División,5,18,fc-getafe,Getafe,4,4,12
 fussballdaten,2023,spanien,2022/2023,Primera División,5,19,fc-elche,Elche,1,2,13
 fussballdaten,2023,spanien,2022/2023,Primera División,5,20,fc-cadiz,Cadiz,0,0,14
+fussballdaten,2023,spanien,2022/2023,Primera División,14,1,fc-barcelona,FC Barcelona,37,33,5
+fussballdaten,2023,spanien,2022/2023,Primera División,14,2,real-madrid,Real Madrid,35,33,14
+fussballdaten,2023,spanien,2022/2023,Primera División,14,3,real-sociedad-san-sebastian,Real Sociedad,26,19,17
+fussballdaten,2023,spanien,2022/2023,Primera División,14,4,athletic-bilbao,Ath. Bilbao,24,24,14
+fussballdaten,2023,spanien,2022/2023,Primera División,14,5,atletico-madrid,Atl. Madrid,24,21,14
+fussballdaten,2023,spanien,2022/2023,Primera División,14,6,real-betis,Real Betis,24,17,12
+fussballdaten,2023,spanien,2022/2023,Primera División,14,7,ca-osasuna,Osasuna,23,16,14
+fussballdaten,2023,spanien,2022/2023,Primera División,14,8,rayo-vallecano,Vallecano,22,20,16
+fussballdaten,2023,spanien,2022/2023,Primera División,14,9,fc-villarreal,Villarreal,21,15,10
+fussballdaten,2023,spanien,2022/2023,Primera División,14,10,fc-valencia,Valencia,19,22,15
+fussballdaten,2023,spanien,2022/2023,Primera División,14,11,rcd-mallorca,Mallorca,19,13,13
+fussballdaten,2023,spanien,2022/2023,Primera División,14,12,real-valladolid,Valladolid,17,13,21
+fussballdaten,2023,spanien,2022/2023,Primera División,14,13,fc-girona,Girona,16,20,22
+fussballdaten,2023,spanien,2022/2023,Primera División,14,14,ud-almeria,Almeria,16,16,22
+fussballdaten,2023,spanien,2022/2023,Primera División,14,15,fc-getafe,Getafe,14,12,20
+fussballdaten,2023,spanien,2022/2023,Primera División,14,16,espanyol-barcelona,Espanyol,12,16,22
+fussballdaten,2023,spanien,2022/2023,Primera División,14,17,celta-vigo,Celta Vigo,12,14,26
+fussballdaten,2023,spanien,2022/2023,Primera División,14,18,fc-sevilla,Sevilla,11,13,22
+fussballdaten,2023,spanien,2022/2023,Primera División,14,19,fc-cadiz,Cadiz,11,9,26
+fussballdaten,2023,spanien,2022/2023,Primera División,14,20,fc-elche,Elche,4,10,31
 fussballdaten,2017,spanien,2016/2017,Primera División,32,1,real-madrid,Real Madrid,78,86,34
 fussballdaten,2017,spanien,2016/2017,Primera División,32,2,fc-barcelona,FC Barcelona,72,91,30
 fussballdaten,2017,spanien,2016/2017,Primera División,32,3,atletico-madrid,Atl. Madrid,65,59,24
@@ -22503,26 +23715,66 @@ fussballdaten,2022,italien,2021/2022,Serie A,25,17,cagliari-calcio,Cagliari,21,2
 fussballdaten,2022,italien,2021/2022,Serie A,25,18,venezia,Venezia,21,23,45
 fussballdaten,2022,italien,2021/2022,Serie A,25,19,us-salernitana,Salernitana,19,20,54
 fussballdaten,2022,italien,2021/2022,Serie A,25,20,fc-genua-1893,Genua,15,21,46
-fussballdaten,2023,italien,2022/2023,Serie A,9,1,ssc-neapel,SSC Neapel,20,18,6
-fussballdaten,2023,italien,2022/2023,Serie A,9,2,atalanta-bergamo,Bergamo,20,12,3
-fussballdaten,2023,italien,2022/2023,Serie A,9,3,udinese-calcio,Udinese,19,17,8
-fussballdaten,2023,italien,2022/2023,Serie A,9,4,lazio-rom,Lazio Rom,17,17,5
-fussballdaten,2023,italien,2022/2023,Serie A,9,5,ac-mailand,AC Mailand,17,16,9
-fussballdaten,2023,italien,2022/2023,Serie A,9,6,as-rom,AS Rom,16,10,8
-fussballdaten,2023,italien,2022/2023,Serie A,9,7,juventus-turin,Juventus Turin,13,12,5
-fussballdaten,2023,italien,2022/2023,Serie A,9,8,us-sassuolo-calcio,Sassuolo,12,10,8
-fussballdaten,2023,italien,2022/2023,Serie A,9,9,inter-mailand,Inter Mailand,12,14,13
-fussballdaten,2023,italien,2022/2023,Serie A,9,10,fc-turin,Turin,10,7,10
-fussballdaten,2023,italien,2022/2023,Serie A,9,11,ac-florenz,AC Florenz,9,7,7
-fussballdaten,2023,italien,2022/2023,Serie A,9,12,spezia-calcio,Spezia,8,7,15
-fussballdaten,2023,italien,2022/2023,Serie A,9,13,us-lecce,Lecce,7,7,9
-fussballdaten,2023,italien,2022/2023,Serie A,9,14,us-salernitana,Salernitana,7,10,13
-fussballdaten,2023,italien,2022/2023,Serie A,9,15,fc-empoli,Empoli,7,7,10
-fussballdaten,2023,italien,2022/2023,Serie A,9,16,ss-monza-1912,SS Monza 191,7,7,14
-fussballdaten,2023,italien,2022/2023,Serie A,9,17,fc-bologna,Bologna,6,7,13
-fussballdaten,2023,italien,2022/2023,Serie A,9,18,hellas-verona,H. Verona,5,7,15
-fussballdaten,2023,italien,2022/2023,Serie A,9,19,us-cremonese,Cremonese,3,6,15
-fussballdaten,2023,italien,2022/2023,Serie A,9,20,sampdoria-genua,S. Genua,2,4,16
+fussballdaten,2023,italien,2022/2023,Serie A,18,1,ssc-neapel,SSC Neapel,47,44,14
+fussballdaten,2023,italien,2022/2023,Serie A,18,2,ac-mailand,AC Mailand,38,35,20
+fussballdaten,2023,italien,2022/2023,Serie A,18,3,juventus-turin,Juventus Turin,37,27,12
+fussballdaten,2023,italien,2022/2023,Serie A,18,4,inter-mailand,Inter Mailand,37,38,24
+fussballdaten,2023,italien,2022/2023,Serie A,18,5,lazio-rom,Lazio Rom,34,31,15
+fussballdaten,2023,italien,2022/2023,Serie A,18,6,atalanta-bergamo,Bergamo,34,34,20
+fussballdaten,2023,italien,2022/2023,Serie A,18,7,as-rom,AS Rom,34,23,16
+fussballdaten,2023,italien,2022/2023,Serie A,18,8,udinese-calcio,Udinese,25,26,21
+fussballdaten,2023,italien,2022/2023,Serie A,18,9,fc-turin,Turin,23,18,20
+fussballdaten,2023,italien,2022/2023,Serie A,18,10,ac-florenz,AC Florenz,23,21,24
+fussballdaten,2023,italien,2022/2023,Serie A,18,11,fc-bologna,Bologna,22,23,29
+fussballdaten,2023,italien,2022/2023,Serie A,18,12,fc-empoli,Empoli,22,16,22
+fussballdaten,2023,italien,2022/2023,Serie A,18,13,ss-monza-1912,SS Monza 191,21,22,27
+fussballdaten,2023,italien,2022/2023,Serie A,18,14,us-lecce,Lecce,20,18,20
+fussballdaten,2023,italien,2022/2023,Serie A,18,15,spezia-calcio,Spezia,18,17,28
+fussballdaten,2023,italien,2022/2023,Serie A,18,16,us-salernitana,Salernitana,18,23,35
+fussballdaten,2023,italien,2022/2023,Serie A,18,17,us-sassuolo-calcio,Sassuolo,16,17,28
+fussballdaten,2023,italien,2022/2023,Serie A,18,18,hellas-verona,H. Verona,9,15,31
+fussballdaten,2023,italien,2022/2023,Serie A,18,19,sampdoria-genua,S. Genua,9,8,31
+fussballdaten,2023,italien,2022/2023,Serie A,18,20,us-cremonese,Cremonese,7,13,32
+fussballdaten,2023,italien,2022/2023,Serie A,9,1,ssc-neapel,SSC Neapel,23,22,7
+fussballdaten,2023,italien,2022/2023,Serie A,9,2,atalanta-bergamo,Bergamo,21,14,5
+fussballdaten,2023,italien,2022/2023,Serie A,9,3,lazio-rom,Lazio Rom,20,21,5
+fussballdaten,2023,italien,2022/2023,Serie A,9,4,udinese-calcio,Udinese,20,19,10
+fussballdaten,2023,italien,2022/2023,Serie A,9,5,ac-mailand,AC Mailand,20,18,9
+fussballdaten,2023,italien,2022/2023,Serie A,9,6,as-rom,AS Rom,19,12,9
+fussballdaten,2023,italien,2022/2023,Serie A,9,7,inter-mailand,Inter Mailand,15,16,14
+fussballdaten,2023,italien,2022/2023,Serie A,9,8,juventus-turin,Juventus Turin,13,12,7
+fussballdaten,2023,italien,2022/2023,Serie A,9,9,us-sassuolo-calcio,Sassuolo,12,11,10
+fussballdaten,2023,italien,2022/2023,Serie A,9,10,fc-turin,Turin,11,8,11
+fussballdaten,2023,italien,2022/2023,Serie A,9,11,us-salernitana,Salernitana,10,12,14
+fussballdaten,2023,italien,2022/2023,Serie A,9,12,ss-monza-1912,SS Monza 191,10,9,14
+fussballdaten,2023,italien,2022/2023,Serie A,9,13,ac-florenz,AC Florenz,9,7,11
+fussballdaten,2023,italien,2022/2023,Serie A,9,14,fc-empoli,Empoli,8,8,11
+fussballdaten,2023,italien,2022/2023,Serie A,9,15,spezia-calcio,Spezia,8,7,17
+fussballdaten,2023,italien,2022/2023,Serie A,9,16,us-lecce,Lecce,7,8,11
+fussballdaten,2023,italien,2022/2023,Serie A,9,17,fc-bologna,Bologna,7,8,14
+fussballdaten,2023,italien,2022/2023,Serie A,9,18,hellas-verona,H. Verona,5,8,17
+fussballdaten,2023,italien,2022/2023,Serie A,9,19,us-cremonese,Cremonese,3,7,19
+fussballdaten,2023,italien,2022/2023,Serie A,9,20,sampdoria-genua,S. Genua,3,5,17
+fussballdaten,2023,italien,2022/2023,Serie A,11,1,ssc-neapel,SSC Neapel,29,26,9
+fussballdaten,2023,italien,2022/2023,Serie A,11,2,ac-mailand,AC Mailand,26,24,11
+fussballdaten,2023,italien,2022/2023,Serie A,11,3,lazio-rom,Lazio Rom,24,23,5
+fussballdaten,2023,italien,2022/2023,Serie A,11,4,atalanta-bergamo,Bergamo,24,16,8
+fussballdaten,2023,italien,2022/2023,Serie A,11,5,as-rom,AS Rom,22,13,10
+fussballdaten,2023,italien,2022/2023,Serie A,11,6,udinese-calcio,Udinese,21,20,12
+fussballdaten,2023,italien,2022/2023,Serie A,11,7,inter-mailand,Inter Mailand,21,22,17
+fussballdaten,2023,italien,2022/2023,Serie A,11,8,juventus-turin,Juventus Turin,19,17,7
+fussballdaten,2023,italien,2022/2023,Serie A,11,9,us-sassuolo-calcio,Sassuolo,15,14,13
+fussballdaten,2023,italien,2022/2023,Serie A,11,10,fc-turin,Turin,14,10,13
+fussballdaten,2023,italien,2022/2023,Serie A,11,11,us-salernitana,Salernitana,13,13,16
+fussballdaten,2023,italien,2022/2023,Serie A,11,12,fc-empoli,Empoli,11,9,15
+fussballdaten,2023,italien,2022/2023,Serie A,11,13,fc-bologna,Bologna,10,12,17
+fussballdaten,2023,italien,2022/2023,Serie A,11,14,ac-florenz,AC Florenz,10,11,16
+fussballdaten,2023,italien,2022/2023,Serie A,11,15,ss-monza-1912,SS Monza 191,10,10,19
+fussballdaten,2023,italien,2022/2023,Serie A,11,16,spezia-calcio,Spezia,9,9,20
+fussballdaten,2023,italien,2022/2023,Serie A,11,17,us-lecce,Lecce,8,9,14
+fussballdaten,2023,italien,2022/2023,Serie A,11,18,sampdoria-genua,S. Genua,6,6,18
+fussballdaten,2023,italien,2022/2023,Serie A,11,19,hellas-verona,H. Verona,5,10,21
+fussballdaten,2023,italien,2022/2023,Serie A,11,20,us-cremonese,Cremonese,4,9,22
 fussballdaten,2023,italien,2022/2023,Serie A,7,1,ssc-neapel,SSC Neapel,17,15,5
 fussballdaten,2023,italien,2022/2023,Serie A,7,2,atalanta-bergamo,Bergamo,17,11,3
 fussballdaten,2023,italien,2022/2023,Serie A,7,3,udinese-calcio,Udinese,16,15,7
@@ -22543,6 +23795,26 @@ fussballdaten,2023,italien,2022/2023,Serie A,7,17,hellas-verona,H. Verona,5,6,13
 fussballdaten,2023,italien,2022/2023,Serie A,7,18,ss-monza-1912,SS Monza 191,4,4,14
 fussballdaten,2023,italien,2022/2023,Serie A,7,19,us-cremonese,Cremonese,2,5,14
 fussballdaten,2023,italien,2022/2023,Serie A,7,20,sampdoria-genua,S. Genua,2,4,13
+fussballdaten,2023,italien,2022/2023,Serie A,16,1,ssc-neapel,SSC Neapel,41,37,13
+fussballdaten,2023,italien,2022/2023,Serie A,16,2,ac-mailand,AC Mailand,36,31,16
+fussballdaten,2023,italien,2022/2023,Serie A,16,3,juventus-turin,Juventus Turin,34,25,7
+fussballdaten,2023,italien,2022/2023,Serie A,16,4,inter-mailand,Inter Mailand,33,35,22
+fussballdaten,2023,italien,2022/2023,Serie A,16,5,lazio-rom,Lazio Rom,30,27,13
+fussballdaten,2023,italien,2022/2023,Serie A,16,6,as-rom,AS Rom,30,19,14
+fussballdaten,2023,italien,2022/2023,Serie A,16,7,atalanta-bergamo,Bergamo,28,24,17
+fussballdaten,2023,italien,2022/2023,Serie A,16,8,udinese-calcio,Udinese,25,25,18
+fussballdaten,2023,italien,2022/2023,Serie A,16,9,fc-turin,Turin,22,17,18
+fussballdaten,2023,italien,2022/2023,Serie A,16,10,ac-florenz,AC Florenz,20,19,21
+fussballdaten,2023,italien,2022/2023,Serie A,16,11,fc-bologna,Bologna,19,20,26
+fussballdaten,2023,italien,2022/2023,Serie A,16,12,us-lecce,Lecce,18,16,18
+fussballdaten,2023,italien,2022/2023,Serie A,16,13,fc-empoli,Empoli,18,13,20
+fussballdaten,2023,italien,2022/2023,Serie A,16,14,us-salernitana,Salernitana,17,20,26
+fussballdaten,2023,italien,2022/2023,Serie A,16,15,ss-monza-1912,SS Monza 191,17,17,23
+fussballdaten,2023,italien,2022/2023,Serie A,16,16,us-sassuolo-calcio,Sassuolo,16,16,24
+fussballdaten,2023,italien,2022/2023,Serie A,16,17,spezia-calcio,Spezia,14,16,28
+fussballdaten,2023,italien,2022/2023,Serie A,16,18,sampdoria-genua,S. Genua,9,8,28
+fussballdaten,2023,italien,2022/2023,Serie A,16,19,us-cremonese,Cremonese,7,11,27
+fussballdaten,2023,italien,2022/2023,Serie A,16,20,hellas-verona,H. Verona,6,13,30
 fussballdaten,2023,italien,2022/2023,Serie A,6,1,ssc-neapel,SSC Neapel,14,13,4
 fussballdaten,2023,italien,2022/2023,Serie A,6,2,atalanta-bergamo,Bergamo,14,10,3
 fussballdaten,2023,italien,2022/2023,Serie A,6,3,ac-mailand,AC Mailand,14,12,6
@@ -22563,6 +23835,26 @@ fussballdaten,2023,italien,2022/2023,Serie A,6,17,us-lecce,Lecce,3,4,7
 fussballdaten,2023,italien,2022/2023,Serie A,6,18,us-cremonese,Cremonese,2,5,10
 fussballdaten,2023,italien,2022/2023,Serie A,6,19,sampdoria-genua,S. Genua,2,3,11
 fussballdaten,2023,italien,2022/2023,Serie A,6,20,ss-monza-1912,SS Monza 191,1,3,14
+fussballdaten,2023,italien,2022/2023,Serie A,17,1,ssc-neapel,SSC Neapel,44,39,13
+fussballdaten,2023,italien,2022/2023,Serie A,17,2,juventus-turin,Juventus Turin,37,26,7
+fussballdaten,2023,italien,2022/2023,Serie A,17,3,ac-mailand,AC Mailand,37,33,18
+fussballdaten,2023,italien,2022/2023,Serie A,17,4,inter-mailand,Inter Mailand,34,37,24
+fussballdaten,2023,italien,2022/2023,Serie A,17,5,lazio-rom,Lazio Rom,31,29,15
+fussballdaten,2023,italien,2022/2023,Serie A,17,6,atalanta-bergamo,Bergamo,31,26,18
+fussballdaten,2023,italien,2022/2023,Serie A,17,7,as-rom,AS Rom,31,21,16
+fussballdaten,2023,italien,2022/2023,Serie A,17,8,udinese-calcio,Udinese,25,25,19
+fussballdaten,2023,italien,2022/2023,Serie A,17,9,ac-florenz,AC Florenz,23,21,22
+fussballdaten,2023,italien,2022/2023,Serie A,17,10,fc-turin,Turin,23,18,19
+fussballdaten,2023,italien,2022/2023,Serie A,17,11,us-lecce,Lecce,19,16,18
+fussballdaten,2023,italien,2022/2023,Serie A,17,12,fc-bologna,Bologna,19,21,28
+fussballdaten,2023,italien,2022/2023,Serie A,17,13,fc-empoli,Empoli,19,15,22
+fussballdaten,2023,italien,2022/2023,Serie A,17,14,us-salernitana,Salernitana,18,21,27
+fussballdaten,2023,italien,2022/2023,Serie A,17,15,ss-monza-1912,SS Monza 191,18,19,25
+fussballdaten,2023,italien,2022/2023,Serie A,17,16,us-sassuolo-calcio,Sassuolo,16,17,26
+fussballdaten,2023,italien,2022/2023,Serie A,17,17,spezia-calcio,Spezia,15,16,28
+fussballdaten,2023,italien,2022/2023,Serie A,17,18,hellas-verona,H. Verona,9,15,30
+fussballdaten,2023,italien,2022/2023,Serie A,17,19,sampdoria-genua,S. Genua,9,8,30
+fussballdaten,2023,italien,2022/2023,Serie A,17,20,us-cremonese,Cremonese,7,11,29
 fussballdaten,2023,italien,2022/2023,Serie A,1,1,ssc-neapel,SSC Neapel,3,5,2
 fussballdaten,2023,italien,2022/2023,Serie A,1,2,juventus-turin,Juventus Turin,3,3,0
 fussballdaten,2023,italien,2022/2023,Serie A,1,3,ac-mailand,AC Mailand,3,4,2
@@ -22583,6 +23875,46 @@ fussballdaten,2023,italien,2022/2023,Serie A,1,17,udinese-calcio,Udinese,0,2,4
 fussballdaten,2023,italien,2022/2023,Serie A,1,18,sampdoria-genua,S. Genua,0,0,2
 fussballdaten,2023,italien,2022/2023,Serie A,1,19,hellas-verona,H. Verona,0,2,5
 fussballdaten,2023,italien,2022/2023,Serie A,1,20,us-sassuolo-calcio,Sassuolo,0,0,3
+fussballdaten,2023,italien,2022/2023,Serie A,10,1,ssc-neapel,SSC Neapel,26,25,9
+fussballdaten,2023,italien,2022/2023,Serie A,10,2,atalanta-bergamo,Bergamo,24,16,6
+fussballdaten,2023,italien,2022/2023,Serie A,10,3,ac-mailand,AC Mailand,23,20,10
+fussballdaten,2023,italien,2022/2023,Serie A,10,4,as-rom,AS Rom,22,13,9
+fussballdaten,2023,italien,2022/2023,Serie A,10,5,lazio-rom,Lazio Rom,21,21,5
+fussballdaten,2023,italien,2022/2023,Serie A,10,6,udinese-calcio,Udinese,21,19,10
+fussballdaten,2023,italien,2022/2023,Serie A,10,7,inter-mailand,Inter Mailand,18,18,14
+fussballdaten,2023,italien,2022/2023,Serie A,10,8,juventus-turin,Juventus Turin,16,13,7
+fussballdaten,2023,italien,2022/2023,Serie A,10,9,us-sassuolo-calcio,Sassuolo,12,12,12
+fussballdaten,2023,italien,2022/2023,Serie A,10,10,fc-empoli,Empoli,11,9,11
+fussballdaten,2023,italien,2022/2023,Serie A,10,11,fc-turin,Turin,11,8,12
+fussballdaten,2023,italien,2022/2023,Serie A,10,12,us-salernitana,Salernitana,10,12,16
+fussballdaten,2023,italien,2022/2023,Serie A,10,13,ac-florenz,AC Florenz,10,8,12
+fussballdaten,2023,italien,2022/2023,Serie A,10,14,ss-monza-1912,SS Monza 191,10,9,15
+fussballdaten,2023,italien,2022/2023,Serie A,10,15,spezia-calcio,Spezia,9,9,19
+fussballdaten,2023,italien,2022/2023,Serie A,10,16,us-lecce,Lecce,8,9,12
+fussballdaten,2023,italien,2022/2023,Serie A,10,17,fc-bologna,Bologna,7,10,17
+fussballdaten,2023,italien,2022/2023,Serie A,10,18,hellas-verona,H. Verona,5,9,19
+fussballdaten,2023,italien,2022/2023,Serie A,10,19,us-cremonese,Cremonese,4,9,21
+fussballdaten,2023,italien,2022/2023,Serie A,10,20,sampdoria-genua,S. Genua,3,5,18
+fussballdaten,2023,italien,2022/2023,Serie A,19,1,ssc-neapel,SSC Neapel,47,44,14
+fussballdaten,2023,italien,2022/2023,Serie A,19,2,ac-mailand,AC Mailand,38,35,20
+fussballdaten,2023,italien,2022/2023,Serie A,19,3,juventus-turin,Juventus Turin,37,27,12
+fussballdaten,2023,italien,2022/2023,Serie A,19,4,inter-mailand,Inter Mailand,37,38,24
+fussballdaten,2023,italien,2022/2023,Serie A,19,5,lazio-rom,Lazio Rom,34,31,15
+fussballdaten,2023,italien,2022/2023,Serie A,19,6,atalanta-bergamo,Bergamo,34,34,20
+fussballdaten,2023,italien,2022/2023,Serie A,19,7,as-rom,AS Rom,34,23,16
+fussballdaten,2023,italien,2022/2023,Serie A,19,8,udinese-calcio,Udinese,25,26,21
+fussballdaten,2023,italien,2022/2023,Serie A,19,9,fc-turin,Turin,23,18,20
+fussballdaten,2023,italien,2022/2023,Serie A,19,10,ac-florenz,AC Florenz,23,21,24
+fussballdaten,2023,italien,2022/2023,Serie A,19,11,fc-bologna,Bologna,22,23,29
+fussballdaten,2023,italien,2022/2023,Serie A,19,12,fc-empoli,Empoli,22,16,22
+fussballdaten,2023,italien,2022/2023,Serie A,19,13,ss-monza-1912,SS Monza 191,21,22,27
+fussballdaten,2023,italien,2022/2023,Serie A,19,14,us-lecce,Lecce,20,18,20
+fussballdaten,2023,italien,2022/2023,Serie A,19,15,spezia-calcio,Spezia,18,17,28
+fussballdaten,2023,italien,2022/2023,Serie A,19,16,us-salernitana,Salernitana,18,23,35
+fussballdaten,2023,italien,2022/2023,Serie A,19,17,us-sassuolo-calcio,Sassuolo,16,17,28
+fussballdaten,2023,italien,2022/2023,Serie A,19,18,hellas-verona,H. Verona,9,15,31
+fussballdaten,2023,italien,2022/2023,Serie A,19,19,sampdoria-genua,S. Genua,9,8,31
+fussballdaten,2023,italien,2022/2023,Serie A,19,20,us-cremonese,Cremonese,7,13,32
 fussballdaten,2023,italien,2022/2023,Serie A,8,1,ssc-neapel,SSC Neapel,20,18,6
 fussballdaten,2023,italien,2022/2023,Serie A,8,2,atalanta-bergamo,Bergamo,20,12,3
 fussballdaten,2023,italien,2022/2023,Serie A,8,3,udinese-calcio,Udinese,19,17,8
@@ -22623,6 +23955,26 @@ fussballdaten,2023,italien,2022/2023,Serie A,4,17,hellas-verona,H. Verona,2,4,8
 fussballdaten,2023,italien,2022/2023,Serie A,4,18,sampdoria-genua,S. Genua,2,1,7
 fussballdaten,2023,italien,2022/2023,Serie A,4,19,us-cremonese,Cremonese,0,4,9
 fussballdaten,2023,italien,2022/2023,Serie A,4,20,ss-monza-1912,SS Monza 191,0,2,11
+fussballdaten,2023,italien,2022/2023,Serie A,15,1,ssc-neapel,SSC Neapel,41,37,12
+fussballdaten,2023,italien,2022/2023,Serie A,15,2,ac-mailand,AC Mailand,33,29,15
+fussballdaten,2023,italien,2022/2023,Serie A,15,3,juventus-turin,Juventus Turin,31,24,7
+fussballdaten,2023,italien,2022/2023,Serie A,15,4,lazio-rom,Lazio Rom,30,26,11
+fussballdaten,2023,italien,2022/2023,Serie A,15,5,inter-mailand,Inter Mailand,30,34,22
+fussballdaten,2023,italien,2022/2023,Serie A,15,6,atalanta-bergamo,Bergamo,27,22,15
+fussballdaten,2023,italien,2022/2023,Serie A,15,7,as-rom,AS Rom,27,18,14
+fussballdaten,2023,italien,2022/2023,Serie A,15,8,udinese-calcio,Udinese,24,24,17
+fussballdaten,2023,italien,2022/2023,Serie A,15,9,fc-turin,Turin,21,16,17
+fussballdaten,2023,italien,2022/2023,Serie A,15,10,ac-florenz,AC Florenz,19,18,20
+fussballdaten,2023,italien,2022/2023,Serie A,15,11,fc-bologna,Bologna,19,20,25
+fussballdaten,2023,italien,2022/2023,Serie A,15,12,us-salernitana,Salernitana,17,19,24
+fussballdaten,2023,italien,2022/2023,Serie A,15,13,fc-empoli,Empoli,17,12,19
+fussballdaten,2023,italien,2022/2023,Serie A,15,14,ss-monza-1912,SS Monza 191,16,16,22
+fussballdaten,2023,italien,2022/2023,Serie A,15,15,us-sassuolo-calcio,Sassuolo,16,15,22
+fussballdaten,2023,italien,2022/2023,Serie A,15,16,us-lecce,Lecce,15,14,17
+fussballdaten,2023,italien,2022/2023,Serie A,15,17,spezia-calcio,Spezia,13,14,26
+fussballdaten,2023,italien,2022/2023,Serie A,15,18,us-cremonese,Cremonese,7,11,26
+fussballdaten,2023,italien,2022/2023,Serie A,15,19,sampdoria-genua,S. Genua,6,6,27
+fussballdaten,2023,italien,2022/2023,Serie A,15,20,hellas-verona,H. Verona,5,12,29
 fussballdaten,2023,italien,2022/2023,Serie A,3,1,ssc-neapel,SSC Neapel,7,9,2
 fussballdaten,2023,italien,2022/2023,Serie A,3,2,ac-mailand,AC Mailand,7,7,3
 fussballdaten,2023,italien,2022/2023,Serie A,3,3,lazio-rom,Lazio Rom,7,5,2
@@ -22643,6 +23995,26 @@ fussballdaten,2023,italien,2022/2023,Serie A,3,17,hellas-verona,H. Verona,1,3,7
 fussballdaten,2023,italien,2022/2023,Serie A,3,18,sampdoria-genua,S. Genua,1,0,6
 fussballdaten,2023,italien,2022/2023,Serie A,3,19,us-cremonese,Cremonese,0,3,6
 fussballdaten,2023,italien,2022/2023,Serie A,3,20,ss-monza-1912,SS Monza 191,0,2,8
+fussballdaten,2023,italien,2022/2023,Serie A,12,1,ssc-neapel,SSC Neapel,32,30,9
+fussballdaten,2023,italien,2022/2023,Serie A,12,2,atalanta-bergamo,Bergamo,27,18,8
+fussballdaten,2023,italien,2022/2023,Serie A,12,3,ac-mailand,AC Mailand,26,25,13
+fussballdaten,2023,italien,2022/2023,Serie A,12,4,as-rom,AS Rom,25,16,11
+fussballdaten,2023,italien,2022/2023,Serie A,12,5,lazio-rom,Lazio Rom,24,24,8
+fussballdaten,2023,italien,2022/2023,Serie A,12,6,inter-mailand,Inter Mailand,24,25,17
+fussballdaten,2023,italien,2022/2023,Serie A,12,7,juventus-turin,Juventus Turin,22,18,7
+fussballdaten,2023,italien,2022/2023,Serie A,12,8,udinese-calcio,Udinese,22,20,12
+fussballdaten,2023,italien,2022/2023,Serie A,12,9,fc-turin,Turin,17,12,14
+fussballdaten,2023,italien,2022/2023,Serie A,12,10,us-salernitana,Salernitana,16,16,17
+fussballdaten,2023,italien,2022/2023,Serie A,12,11,us-sassuolo-calcio,Sassuolo,15,14,17
+fussballdaten,2023,italien,2022/2023,Serie A,12,12,fc-bologna,Bologna,13,14,18
+fussballdaten,2023,italien,2022/2023,Serie A,12,13,ac-florenz,AC Florenz,13,13,17
+fussballdaten,2023,italien,2022/2023,Serie A,12,14,fc-empoli,Empoli,11,9,17
+fussballdaten,2023,italien,2022/2023,Serie A,12,15,ss-monza-1912,SS Monza 191,10,11,21
+fussballdaten,2023,italien,2022/2023,Serie A,12,16,spezia-calcio,Spezia,9,10,22
+fussballdaten,2023,italien,2022/2023,Serie A,12,17,us-lecce,Lecce,8,9,15
+fussballdaten,2023,italien,2022/2023,Serie A,12,18,sampdoria-genua,S. Genua,6,6,21
+fussballdaten,2023,italien,2022/2023,Serie A,12,19,hellas-verona,H. Verona,5,11,24
+fussballdaten,2023,italien,2022/2023,Serie A,12,20,us-cremonese,Cremonese,5,9,22
 fussballdaten,2023,italien,2022/2023,Serie A,2,1,ssc-neapel,SSC Neapel,6,9,2
 fussballdaten,2023,italien,2022/2023,Serie A,2,2,inter-mailand,Inter Mailand,6,5,1
 fussballdaten,2023,italien,2022/2023,Serie A,2,3,as-rom,AS Rom,6,2,0
@@ -22663,6 +24035,26 @@ fussballdaten,2023,italien,2022/2023,Serie A,2,17,hellas-verona,H. Verona,1,3,6
 fussballdaten,2023,italien,2022/2023,Serie A,2,18,us-cremonese,Cremonese,0,2,4
 fussballdaten,2023,italien,2022/2023,Serie A,2,19,us-lecce,Lecce,0,1,3
 fussballdaten,2023,italien,2022/2023,Serie A,2,20,ss-monza-1912,SS Monza 191,0,1,6
+fussballdaten,2023,italien,2022/2023,Serie A,13,1,ssc-neapel,SSC Neapel,35,32,10
+fussballdaten,2023,italien,2022/2023,Serie A,13,2,ac-mailand,AC Mailand,29,27,14
+fussballdaten,2023,italien,2022/2023,Serie A,13,3,lazio-rom,Lazio Rom,27,25,8
+fussballdaten,2023,italien,2022/2023,Serie A,13,4,atalanta-bergamo,Bergamo,27,19,10
+fussballdaten,2023,italien,2022/2023,Serie A,13,5,juventus-turin,Juventus Turin,25,20,7
+fussballdaten,2023,italien,2022/2023,Serie A,13,6,as-rom,AS Rom,25,16,12
+fussballdaten,2023,italien,2022/2023,Serie A,13,7,inter-mailand,Inter Mailand,24,25,19
+fussballdaten,2023,italien,2022/2023,Serie A,13,8,udinese-calcio,Udinese,23,21,13
+fussballdaten,2023,italien,2022/2023,Serie A,13,9,us-salernitana,Salernitana,17,18,19
+fussballdaten,2023,italien,2022/2023,Serie A,13,10,fc-turin,Turin,17,13,16
+fussballdaten,2023,italien,2022/2023,Serie A,13,11,ac-florenz,AC Florenz,16,15,17
+fussballdaten,2023,italien,2022/2023,Serie A,13,12,fc-bologna,Bologna,16,16,19
+fussballdaten,2023,italien,2022/2023,Serie A,13,13,us-sassuolo-calcio,Sassuolo,15,14,18
+fussballdaten,2023,italien,2022/2023,Serie A,13,14,fc-empoli,Empoli,14,10,17
+fussballdaten,2023,italien,2022/2023,Serie A,13,15,ss-monza-1912,SS Monza 191,13,13,21
+fussballdaten,2023,italien,2022/2023,Serie A,13,16,us-lecce,Lecce,9,10,16
+fussballdaten,2023,italien,2022/2023,Serie A,13,17,spezia-calcio,Spezia,9,11,24
+fussballdaten,2023,italien,2022/2023,Serie A,13,18,us-cremonese,Cremonese,6,11,24
+fussballdaten,2023,italien,2022/2023,Serie A,13,19,sampdoria-genua,S. Genua,6,6,23
+fussballdaten,2023,italien,2022/2023,Serie A,13,20,hellas-verona,H. Verona,5,11,26
 fussballdaten,2023,italien,2022/2023,Serie A,5,1,atalanta-bergamo,Bergamo,13,9,2
 fussballdaten,2023,italien,2022/2023,Serie A,5,2,ssc-neapel,SSC Neapel,11,12,4
 fussballdaten,2023,italien,2022/2023,Serie A,5,3,ac-mailand,AC Mailand,11,10,5
@@ -22683,6 +24075,26 @@ fussballdaten,2023,italien,2022/2023,Serie A,5,17,us-lecce,Lecce,2,3,6
 fussballdaten,2023,italien,2022/2023,Serie A,5,18,sampdoria-genua,S. Genua,2,2,9
 fussballdaten,2023,italien,2022/2023,Serie A,5,19,us-cremonese,Cremonese,1,4,9
 fussballdaten,2023,italien,2022/2023,Serie A,5,20,ss-monza-1912,SS Monza 191,0,2,13
+fussballdaten,2023,italien,2022/2023,Serie A,14,1,ssc-neapel,SSC Neapel,38,34,10
+fussballdaten,2023,italien,2022/2023,Serie A,14,2,lazio-rom,Lazio Rom,30,26,8
+fussballdaten,2023,italien,2022/2023,Serie A,14,3,ac-mailand,AC Mailand,30,27,14
+fussballdaten,2023,italien,2022/2023,Serie A,14,4,juventus-turin,Juventus Turin,28,21,7
+fussballdaten,2023,italien,2022/2023,Serie A,14,5,inter-mailand,Inter Mailand,27,31,20
+fussballdaten,2023,italien,2022/2023,Serie A,14,6,atalanta-bergamo,Bergamo,27,20,12
+fussballdaten,2023,italien,2022/2023,Serie A,14,7,as-rom,AS Rom,26,17,13
+fussballdaten,2023,italien,2022/2023,Serie A,14,8,udinese-calcio,Udinese,24,22,14
+fussballdaten,2023,italien,2022/2023,Serie A,14,9,fc-turin,Turin,20,15,16
+fussballdaten,2023,italien,2022/2023,Serie A,14,10,ac-florenz,AC Florenz,19,17,18
+fussballdaten,2023,italien,2022/2023,Serie A,14,11,us-salernitana,Salernitana,17,19,21
+fussballdaten,2023,italien,2022/2023,Serie A,14,12,us-sassuolo-calcio,Sassuolo,16,15,19
+fussballdaten,2023,italien,2022/2023,Serie A,14,13,fc-bologna,Bologna,16,17,25
+fussballdaten,2023,italien,2022/2023,Serie A,14,14,fc-empoli,Empoli,14,10,19
+fussballdaten,2023,italien,2022/2023,Serie A,14,15,ss-monza-1912,SS Monza 191,13,13,22
+fussballdaten,2023,italien,2022/2023,Serie A,14,16,us-lecce,Lecce,12,12,17
+fussballdaten,2023,italien,2022/2023,Serie A,14,17,spezia-calcio,Spezia,10,12,25
+fussballdaten,2023,italien,2022/2023,Serie A,14,18,us-cremonese,Cremonese,7,11,24
+fussballdaten,2023,italien,2022/2023,Serie A,14,19,sampdoria-genua,S. Genua,6,6,25
+fussballdaten,2023,italien,2022/2023,Serie A,14,20,hellas-verona,H. Verona,5,11,27
 fussballdaten,2017,italien,2016/2017,Serie A,32,1,juventus-turin,Juventus Turin,80,64,20
 fussballdaten,2017,italien,2016/2017,Serie A,32,2,as-rom,AS Rom,72,70,27
 fussballdaten,2017,italien,2016/2017,Serie A,32,3,ssc-neapel,Neapel,70,75,33
